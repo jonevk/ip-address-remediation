@@ -1,0 +1,13 @@
+  map-value memberOf "CN=Network Management,OU=Groups_Global,OU=Covenant WI,OU=People,DC=wfsi,DC=priv" WFH-IS-NetworkGroup
+  map-value memberOf "CN=WFH Home Transcriptionist,OU=People,DC=wfsi,DC=priv" WFH-HomeTranscription
+  map-value memberOf "CN=WFH SSL CI,OU=People,DC=wfsi,DC=priv" WFH-Clinical-Informatics
+  map-value memberOf "CN=WFH SSL HomeCoder,OU=People,DC=wfsi,DC=priv" WFH-HomeCoder
+  map-value memberOf "CN=WFH SSL HomeTranscriptionist,OU=People,DC=wfsi,DC=priv" WFH-HomeTranscription
+  map-value memberOf "CN=WFH SSL IS,OU=People,DC=wfsi,DC=priv" WFH-IS
+  map-value memberOf "CN=WFH SSL Test SBL,OU=People,DC=wfsi,DC=priv" WFH-SSL-Test-SBL
+  map-value memberOf "CN=WFH SSL User Anyconnect,OU=People,DC=wfsi,DC=priv" WFH-User
+  map-value memberOf "CN=WFH SSL User Clientless,OU=People,DC=wfsi,DC=priv" WFH-User-Clientless
+  map-value memberOf "CN=WFH SSL User SBL Anyconnect,OU=People,DC=wfsi,DC=priv" WFH-User-SBL
+  map-value memberOf "CN=WFH SSL Users,OU=People,DC=wfsi,DC=priv" WFH-User
+  map-value memberOf "CN=WFH SSL Vendor Clientless,OU=People,DC=wfsi,DC=priv" WFH-Vendor-Clientless
+  map-value memberOf "CN=WFH SSL Vendor,OU=People,DC=wfsi,DC=priv" WFH-Vendor-SSL

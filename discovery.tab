@@ -1,0 +1,22 @@
+HOST	Discription	IP Address	PING?	NETDISCO?	Switch
+SFEEGACQ02	temp	10.69.184.155	DOWN	YES	sfh-core-sw-4.net.wfsi.priv
+SJEEGACQ02	 natus workstation SJH	10.114.184.55		YES	emh-602-sw-1.net.wfsi.priv
+EMEEGACQ01	EMH Clinical vlan	10.114.184.55			
+SJHCLNS02	SJH Clinical vlan	10.111.61.20	UP	YES	sjh-206-sw-1.net.wfsi.priv
+3B-DT	clinical vlan	10.111.22.208	DOWN	YES	smc-caledoniarm-tmpstk-a.net.wfsi.priv
+SJEEGACQ01		10.111.60.171	DOWN	YES	N/A
+SFHCLCL01		10.111.156.207	UP	YES	sfh-302-sw-6.net.wfsi.priv
+SFHCLCL02		10.111.156.208	UP	YES	sfh-302-sw-5.net.wfsi.priv
+SFHCLCL03		10.111.156.209	UP	YES	sfh-302-sw-1.net.wfsi.priv
+4W3-DT		10.111.60.22	UP	YES	sfh-302-sw-3.net.wfsi.priv
+SFHCLCL04		10.111.156.210	UP	YES	sfh-302-sw-3.net.wfsi.priv
+W100-34632		10.111.48.92	DOWN	YES	sjh-g06-sw-3.net.wfsi.priv
+SFHCLNS01		10.111.156.222	UP	YES	sfh-302-sw-6.net.wfsi.priv
+SFHCLNS04		10.111.156.225	UP	YES	sfh-302-sw-3.net.wfsi.priv
+SFHCLRV02		10.111.156.226	UP	YES	sfh-302-sw-4.net.wfsi.priv
+SFHCLNS02		10.111.156.223	UP	YES	sfh-302-sw-5.net.wfsi.priv
+SFHCLRV01		10.111.156.227	UP	YES	sfh-302-sw-1.net.wfsi.priv
+RPACWKSTN		10.113.104.43	DOWN	YES	sjh-cr-r108-n5k-1.net.wfsi.priv
+RHCHARGILINT-N		10.113.72.224	UP	NO	N/A
+ANEST-DT		10.111.20.92	UP	YES	smc-101-sw-1.net.wfsi.priv
+CHHLADMINC1		10.113.97.247	UP	YES	cdc-cr-r533-n5k-1.net.wfsi.priv

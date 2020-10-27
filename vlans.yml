@@ -1,0 +1,67 @@
+---
+Vlan100 : Network Management
+Vlan101 : ilo-10.112.194.32m28
+Vlan102 : server-10.112.207.160m27
+Vlan103 : premierRAD-10.112.207.192/28
+Vlan104 : CDC-Wireless-Management-10.65.4
+Vlan108 : Data-10.65.8.0/21
+Vlan110 : clean-10.112.195.0m25
+Vlan164 : Guest-10.65.64.x/21
+Vlan171 : PC-Lab-10.112.192.192/27
+Vlan172 : voice-10.112.200-m22
+Vlan173 : elan_10.112.192.96m27
+Vlan174 : tlan_10.112.192.128m26
+Vlan191 : ah-aia
+Vlan220 : byod-10.65.120.0/22
+Vlan251 : Pharmacy-ATC
+Vlan252 : Printers
+Vlan260 : Vendor-10.65.160.x/22
+Vlan268 : Environmental
+Vlan272 : Security
+Vlan276 : Wireless VOICE
+Vlan284 : Clinical
+Vlan292 : wirelessData-10.112.204/23
+Vlan301 : CDC_Servers
+Vlan310 : GE-IX
+Vlan312 : GE-Misc
+Vlan316 : CDC-PDU-Control-10.6.216/23
+Vlan318 : CSM-Pri-10.65.218.0
+Vlan320 : WIAPP-Wireless
+Vlan321 : WIAPP-Wired
+Vlan331 : mychart-10.65.231/24
+Vlan332 : Vendor-Pitneybowes-10.65.232.0/2
+Vlan336 : Register-Net-10.65.232.16/28
+Vlan340 : Facilities-Radio
+Vlan348 : Carepoint
+Vlan352 : WHEPP-Radio
+Vlan356 : WIAPP-Public
+Vlan357 : WIAPP-Transit
+Vlan358 : WIAPP-TransitNEW
+Vlan392 : Virus-Net-10.65.232.240/29
+Vlan396 : Fire Alarm
+Vlan400 : CDC-PCI-10.65.236.0/24
+Vlan404 : PCI-Wireless
+Vlan407 : Lab-PCI-10.65.243.0/28
+Vlan419 : ILO Management
+Vlan420 : VMWare Managment
+Vlan425 : Linux1
+Vlan427 : API-TimeClocks-10.65.248.0/24
+Vlan430 : WOC-PACS
+Vlan450 : Wander_Guard
+Vlan514 : TEMP_RSPAN_for_SBC
+Vlan607 : VirusPen-NoRouting
+Vlan667 : Vendor-inside
+Vlan668 : QS1 Inside
+Vlan669 : WOC-public-internet
+Vlan671 : Test-PCI-Network-L2
+Vlan888 : Native-Vlan
+Vlan950 : Transit
+Vlan999 : DVS-Recording-SPAN
+Vlan1118 : Network Management
+Vlan1124: Prd-PACS-L3
+Vlan1127: Test_PACS
+Vlan1134: Non_VPN_Routing
+Vlan1240: ARUBA_AH-SYS
+Vlan1241: ARUBA_AH-VOICE
+Vlan1242: ARUBA_AH-RNA
+...

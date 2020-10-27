@@ -1,0 +1,61 @@
+---
+cdc-tel-c4k-2 : CDC
+smc-g06-c4k-1 : SMC
+smc-g06-c4k-2 : SMC
+smc-g07-c4k-1 : SMC
+smc-g07-c4k-2 : SMC
+smc-g09-c4k-1 : SMC
+smc-g09-c4k-2 : SMC
+smc-g12-c4k-1 : SMC
+smc-g12-c4k-2 : SMC
+smc-core-c65-1 : SMC
+franklin-core-c4k-1 : FRANKLIN
+franklin-core-c4k-2 : FRANKLIN
+sfh-core-c4k-2: SFH
+sfh-core-c4k-1: SFH
+sjoc-core-c4k-2 : SJOC
+sjoc-core-c4k-1: SJOC
+emh-core-c4k-2 : EMH
+emh-core-c4k-1 : EMH
+slh-core-c4k-2: SLH
+slh-core-c4k-1: SLH
+franklinmob-core-c4k-2: FRANKLIN-MOB
+franklinmob-core-c4k-1: FRANKLIN-MOB
+rawson-core-rtr-2: RAWSON
+rawson-core-rtr-1: RAWSON
+emh-core-pa-1 : EMH
+franklin-core-pa-1 : FRANKLIN
+sfh-core-pa-1 : SFH
+sfh-core-pa-2 : SFH
+sjoc-core-pa-1 : SJOC
+sjh-core-pa-1: SJH
+slh-core-pa-1: SJH
+smc-core-pa-1: SMC
+sturtevant-core-pa-1: STURTEVANT
+emh-core-pa-2 : EMH
+sfh-core-c3k-1 : SFH
+cdc-cr-n7k-1-agg : CDC
+sjh-cr-n7k-1-agg : SJH
+smc-601-stk-a : SMC
+cdc-cr-n7k-2-agg : CDC
+sjh-cr-n7k-2-agg : SJH
+sjh-core-c65-1 : SJH
+sjh-core-c65-2 : SJH
+wigle-ssb-core-fw-1: SSB
+wigle-3238s16-core-fw-1: 3238s16
+wigle-4600wloomis-core-fw-1: 4600wloomis
+wigle-biw-core-fw-1: BIW
+wigle-bdymca-core-fw-1: BDYMCA
+wigle-emac-core-fw-1: EMAC
+wigle-emhclinic-core-fw-1: EMACCLINIC
+wigle-franklin-core-fw-1: FRANKLIN
+wigle-franklinmob-core-fw-1: FRANKLINMOB
+wigle-oakcreek-core-fw-1: OAKCREEK
+wigle-rawson-core-fw-1: RAWSON
+wigle-sfh-core-fw-cl1: SFH
+wigle-sjoc-core-fw-1: SJOC
+wigle-littlesaints-core-fw-1: LITTLESAINTS
+wigle-mtpleasant-core-fw-1: MTPLEASANT
+wigle-slh-core-fw-1: SLH
+wigle-smc-core-fw-1: SMC
+...

@@ -1,0 +1,449 @@
+SMC	smc-core-c65-1	10.130.152.133	00:9C:02:06:EF:A2	Hewlett Packard	Vlan252	Printers	smc-301-sw-1_FE0/22	05-20-2020
+SMC	smc-core-c65-1	10.130.172.19	54:B2:03:1B:C6:99	PEGATRON CORPORATION	Vlan272	Security	smc-305-swstk-1_Gi4/0/18	05-19-2020
+SMC	smc-core-c65-1	172.16.128.221	00:00:12:01:00:02	INFORMATION TECHNOLOGY LIMITED	Vlan252	Printers	smc-601-sw-3_Fa0/23	05-20-2020
+SMC	smc-core-c65-1	172.16.132.37	00:40:9D:70:84:5F	DigiBoard	Vlan252	Printers	smc-601-sw-6_Fa0/3	05-20-2020
+SMC	smc-core-c65-1	172.16.132.174	00:C0:9F:3A:F3:AA	QUANTA COMPUTER INC.	Vlan252	Printers	smc-204-sw-2_Fa0/12	05-19-2020
+SMC	smc-core-c65-1	172.16.132.200	00:1E:C9:39:5A:52	Dell Inc.	Vlan252	Printers	smc-204-sw-2_Fa0/12	05-20-2020
+SMC	smc-core-c65-1	172.16.132.204	00:90:E8:18:4E:F1	MOXA TECHNOLOGIES CORP. LTD.	Vlan252	Printers	smc-204-sw-2_Fa0/13	05-20-2020
+SMC	smc-core-c65-1	172.16.132.205	00:90:E8:15:AE:2E	MOXA TECHNOLOGIES CORP. LTD.	Vlan252	Printers	smc-204-sw-2_Fa0/14	05-20-2020
+SMC	smc-core-c65-1	172.16.132.230	00:21:70:04:46:A1	Dell Inc.	Vlan252	Printers	smc-204-sw-1_Fa0/19	05-20-2020
+SMC	smc-core-c65-1	172.16.136.199	00:01:6C:D8:30:8C	FOXCONN	Vlan252	Printers	smc-g06-sw-2_Fa0/40	05-20-2020
+FRANKLIN	franklin-core-c4k-1	10.62.232.4	00:30:18:AB:64:9B	Jetway Information Co. Ltd.	Vlan352	WHEPP-Radio	franklin-501-c4k-1_Fa2/4	10-26-2020
+FRANKLIN	franklin-core-c4k-1	10.62.232.5	00:30:18:AB:60:39	Jetway Information Co. Ltd.	Vlan352	WHEPP-Radio	franklin-501-c4k-1_Fa2/5	10-26-2020
+FRANKLIN	franklin-core-c4k-1	10.62.232.6	00:30:18:AB:64:5A	Jetway Information Co. Ltd.	Vlan352	WHEPP-Radio	franklin-501-c4k-1_Fa2/6	10-26-2020
+FRANKLIN	franklin-core-c4k-1	10.62.232.7	44:E4:9A:00:14:8A	OMNITRONICS PTY LTD	Vlan352	WHEPP-Radio	franklin-501-c4k-1_Fa2/3	10-26-2020
+FRANKLIN	franklin-core-c4k-1	10.62.232.8	90:B1:1C:9C:C0:97	Dell Inc.	Vlan352	WHEPP-Radio	franklin-101-c4k-4_Fa3/48	10-26-2020
+FRANKLIN	franklin-core-c4k-1	10.62.232.9	84:24:8D:00:12:0B	Zebra Technologies Inc	Vlan352	WHEPP-Radio	franklin-501-c4k-1_Fa2/2	10-26-2020
+FRANKLIN	franklin-core-c4k-1	10.62.232.36	84:24:8D:09:B3:1F	Zebra Technologies Inc	Vlan340	Facilities-Radio	franklin-501-c4k-1_Fa2/1	10-26-2020
+SFH	sfh-core-c4k-2	10.69.176.13	00:01:3E:02:C9:6B	Ascom Tateco AB	Vlan276	Wireless VOICE	sfh-207-sw-2_Gi1/0/25	05-20-2020
+SFH	sfh-core-c4k-2	10.69.176.14	00:01:3E:02:C9:59	Ascom Tateco AB	Vlan276	Wireless VOICE	sfh-207-sw-2_Gi1/0/26	05-20-2020
+SFH	sfh-core-c4k-2	10.69.232.4	84:24:8D:0A:DE:21	Zebra Technologies Inc	Vlan352	WHEPP-Radio	sfh-602-sw-2_Gi1/0/2	05-20-2020
+SJOC	sjoc-core-c4k-2	10.34.100.14	00:1C:C5:D7:E4:D7	3Com Ltd	Vlan252	Printers	sjoc-101-sw-4_Gi1/0/39	05-20-2020
+SJOC	sjoc-core-c4k-2	10.34.229.12	00:90:0B:34:03:7E	LANNER ELECTRONICS INC.	Vlan252	Printers	sjoc-101-sw-3_Fa0/31	05-20-2020
+SJOC	sjoc-core-c4k-2	10.70.232.37	84:24:8D:0A:DE:8B	Zebra Technologies Inc	Vlan340	Facilities-Radio	sjoc-501-sw-1_Fa0/13	05-20-2020
+EMH	emh-core-c4k-1	10.114.232.52	84:24:8D:0A:DE:3D	Zebra Technologies Inc	Vlan352	WHEPP-Radio	emh-core-sw-1_Gi1/0/4	08-19-2020
+SLH	slh-core-c4k-2	172.16.48.103	00:06:67:28:38:76	Tripp Lite	Vlan252	Printers	slh-obla-sw-1_Gi1/0/24	05-12-2020
+SLH	slh-core-c4k-2	172.16.48.152	00:00:12:02:00:03	INFORMATION TECHNOLOGY LIMITED	Vlan252	Printers	slh-sl5c-sw-1_Fa0/35	05-20-2020
+SLH	slh-core-c4k-2	172.16.48.153	00:00:12:02:00:04	INFORMATION TECHNOLOGY LIMITED	Vlan252	Printers	slh-sl5c-sw-1_Fa0/35	05-20-2020
+SLH	slh-core-c4k-2	172.16.89.253	00:40:9D:3D:64:2A	DigiBoard	Vlan450	Wander_Guard	slh-sl4c-sw-1_Gi1/0/46	05-20-2020
+SLH	slh-core-c4k-2	172.16.89.254	00:19:0F:2B:67:FB	Advansus Corp.	Vlan450	Wander_Guard	slh-sl4c-sw-1_Gi1/0/46	05-20-2020
+CDC	cdc-tel-c4k-2	192.168.1.10	00:02:99:14:2E:BA	Apex Inc.	Vlan100	Network Management	cdc-tel-c4k-1_Gi6/17	05-20-2020
+FRANKLIN-MOB	franklinmob-core-c4k-2	10.52.232.36	84:24:8D:09:B2:E3	Zebra Technologies Inc	Vlan340	Facilities-Radio	franklinmob-301-sw-3_Gi1/0/20	10-26-2020
+RAWSON	rawson-core-rtr-2	10.22.100.23	A0:48:1C:92:CC:24	Hewlett Packard	Vlan252	Printers	rawson-core-sw-2_Gi1/0/37	06-03-2020
+RAWSON	rawson-core-rtr-2	10.22.100.25	C4:34:6B:68:1D:9D	Hewlett Packard	Vlan252	Printers	rawson-core-sw-2_Gi1/0/35	06-03-2020
+RAWSON	rawson-core-rtr-2	10.22.250.11	00:0E:0C:6E:13:F6	Intel Corporation	Vlan252	Printers	rawson-core-sw-2_Gi1/0/38	07-10-2020
+RAWSON	rawson-core-rtr-2	10.22.250.34	F0:1C:2D:D6:1F:40	Juniper Networks	Vlan252	Printers	rawson-core-sw-2_Gi1/0/45	06-03-2020
+RAWSON	rawson-core-rtr-2	10.22.250.40	00:15:17:0E:5D:35	Intel Corporate	Vlan252	Printers	rawson-core-sw-2_Gi1/0/39	07-10-2020
+EMH	emh-core-c4k-1	10.114.210.10	74:FE:48:03:27:D3	ADVANTECH CO. LTD.	Vlan310	GE-IX	emh-core-sw-1_Gi1/0/4	06-02-2020
+EMH	emh-core-c4k-1	10.114.210.11	74:FE:48:18:84:27	ADVANTECH CO. LTD.	Vlan310	GE-IX	emh-503-sw-1_Gi1/0/23	06-02-2020
+EMH	emh-core-c4k-1	10.114.210.12	00:D0:C9:D6:E2:06	ADVANTECH CO. LTD.	Vlan310	GE-IX	emh-503-sw-2_Gi1/0/28	06-02-2020
+EMH	emh-core-c4k-1	10.114.210.13	00:D0:C9:D7:06:84	ADVANTECH CO. LTD.	Vlan310	GE-IX	emh-503-sw-2_Gi1/0/26	05-29-2020
+EMH	emh-core-c4k-1	10.114.210.14	00:D0:C9:DA:6B:03	ADVANTECH CO. LTD.	Vlan310	GE-IX	emh-203-sw-8_Gi1/0/22	06-29-2020
+EMH	emh-core-c4k-1	10.114.210.16	00:D0:C9:D7:06:7B	ADVANTECH CO. LTD.	Vlan310	GE-IX	emh-503-sw-1_Gi1/0/22	07-01-2020
+EMH	emh-core-c4k-1	10.114.210.17	00:D0:C9:DA:22:85	ADVANTECH CO. LTD.	Vlan310	GE-IX	emh-603-sw-2_Gi1/0/21	05-27-2020
+EMH	emh-core-pa-1	10.114.210.18	00:D0:C9:DC:52:B2	ADVANTECH CO. LTD.	Vlan310	GE-IX	emh-603-sw-1_Gi1/0/25	05-19-2020
+EMH	emh-core-c4k-1	10.114.210.23	00:D0:C9:D7:B4:23	ADVANTECH CO. LTD.	Vlan310	GE-IX	emh-503-sw-2_Gi1/0/22	09-25-2020
+EMH	emh-core-pa-1	10.114.210.26	00:40:97:0C:32:5A	DATEX DIVISION OF	Vlan310	GE-IX	emh-203-sw-8_Gi1/0/27-28	05-06-2020
+EMH	emh-core-pa-1	10.114.210.27	00:40:97:0C:34:3B	DATEX DIVISION OF	Vlan310	GE-IX	emh-203-sw-5_Gi1/0/23_48	05-06-2020
+EMH	emh-core-pa-1	10.114.210.28	00:40:97:0C:33:1D	DATEX DIVISION OF	Vlan310	GE-IX	emh-203-sw-5_Gi1/0/43_47	05-06-2020
+EMH	emh-core-pa-1	10.114.210.29	00:40:97:30:55:3D	DATEX DIVISION OF	Vlan310	GE-IX	emh-203-sw-5_Gi1/0/45-46	05-06-2020
+EMH	emh-core-c4k-1	10.44.22.20	00:0E:0C:62:DA:86	Intel Corporation	Vlan284	Clinical	emh-204-sw-4_Fa0/4	10-26-2020
+EMH	emh-core-c4k-1	10.44.250.30	00:15:17:0E:08:46	Intel Corporate	Vlan284	Clinical	emh-204-sw-9_Fa0/39	07-30-2020
+EMH	emh-core-pa-1	10.44.250.62	3C:61:04:DA:77:80	Juniper Networks	Vlan284	Clinical	emh-205-sw-1_Gi1/0/7	05-19-2020
+EMH	emh-core-pa-1	10.44.250.103	A0:48:1C:92:CC:47	Hewlett Packard	Vlan284	Clinical	emh-205-sw-1_Gi1/0/9	05-19-2020
+EMH	emh-core-c4k-1	10.44.250.105	00:00:50:26:20:F1	RADISYS CORPORATION	Vlan284	Clinical	emh-204-sw-4_Fa0/37	05-22-2020
+EMH	emh-core-c4k-1	10.44.250.106	C4:00:AD:38:7F:45	Advantech Technology (CHINA) Co. Ltd.	Vlan284	Clinical	emh-204-sw-4_Fa0/36	05-28-2020
+EMH	emh-core-c4k-1	10.44.250.145	00:10:83:A0:31:CA	Hewlett Packard	Vlan284	Clinical	emh-401-sw-1_Gi1/0/7	08-28-2020
+EMH	emh-core-pa-1	10.44.250.152	EC:13:DB:DC:48:80	Juniper Networks	Vlan284	Clinical	emh-205-sw-1_Gi1/0/20	05-19-2020
+EMH	emh-core-c4k-1	10.44.250.166	00:30:6E:C3:79:2B	Hewlett Packard	Vlan284	Clinical	emh-203-sw-5_Gi1/0/30	10-26-2020
+EMH	emh-core-pa-1	10.114.136.37	A0:48:1C:AB:EE:75	Hewlett Packard	Vlan284	Clinical	emh-205-sw-1_Gi1/0/19	05-19-2020
+EMH	emh-core-c4k-1	10.114.136.39	10:E7:C6:30:05:D6	Hewlett Packard	Vlan284	Clinical	emh-205-sw-2_Gi1/0/12	10-26-2020
+EMH	emh-core-c4k-2	10.114.184.22	00:19:0F:0D:9F:CD	Advansus Corp.	Vlan284	Clinical	emh-204-sw-3_Gi1/0/37	06-16-2020
+EMH	emh-core-c4k-1	10.114.184.24	C4:7D:CC:07:4D:09	Zebra Technologies Inc	Vlan284	Clinical	emh-103-sw-1_Gi1/0/34	10-26-2020
+EMH	emh-core-pa-1	10.114.168.20	D4:3D:7E:B2:78:45	Micro-Star Int"l Co Ltd	Vlan268	Environmental	emh-powerhouse-sw-1_Fa0/12	05-19-2020
+FRANKLIN	franklin-core-pa-1	10.45.250.33	08:00:66:80:2B:13	AGFA CORPORATION	Vlan284	Clinical	franklin-101-c4k-3_Fa4/23	05-07-2020
+FRANKLIN	franklin-core-pa-1	10.45.250.37	A0:36:9F:76:03:B9	Intel Corporate	Vlan284	Clinical	franklin-103-c4k-1_Gi2/33	05-12-2020
+FRANKLIN	franklin-core-pa-1	10.45.250.50	68:05:CA:2A:60:00	Intel Corporate	Vlan284	Clinical	franklin-103-c4k-1_Gi3/32	05-07-2020
+FRANKLIN	wigle-franklin-core-fw-1	10.45.250.60	00:00:50:38:78:72	RADISYS CORPORATION	Vlan284	Clinical	franklin-103-c4k-1_Gi4/32	06-25-2020
+FRANKLIN	franklin-core-pa-1	10.45.250.62	68:05:CA:AE:41:FD	Intel Corporate	Vlan284	Clinical	franklin-103-c4k-1_Gi2/12	05-06-2020
+FRANKLIN	franklin-core-pa-1	10.45.250.71	78:E7:D1:D6:D8:61	Hewlett Packard	Vlan284	Clinical	franklin-103-c4k-1_Gi3/15	05-07-2020
+FRANKLIN	franklin-core-pa-1	10.45.250.73	00:19:99:9C:B6:65	Fujitsu Technology Solutions GmbH	Vlan284	Clinical	franklin-103-c4k-1_Gi2/26	05-06-2020
+FRANKLIN	franklin-core-pa-1	10.62.136.42	00:D0:C9:D1:73:63	ADVANTECH CO. LTD.	Vlan284	Clinical	franklin-103-c4k-1_Gi2/25	05-12-2020
+FRANKLIN	franklin-core-c4k-1	10.62.136.43	00:D0:C9:D0:46:2A	ADVANTECH CO. LTD.	Vlan284	Clinical	franklin-103-c4k-1_Gi2/27	05-22-2020
+FRANKLIN	franklin-core-c4k-1	10.62.184.21	C4:7D:CC:07:2B:64	Zebra Technologies Inc	Vlan284	Clinical	franklin-301-c4k-3_Gi2/30	10-26-2020
+FRANKLIN	franklin-core-pa-1	10.153.22.10	60:A4:4C:EC:98:97	ASUSTek COMPUTER INC.	Vlan284	Clinical	franklin-101-c4k-3_Gi5/7	05-11-2020
+FRANKLIN	franklin-core-pa-1	10.62.210.15	00:D0:C9:B1:BC:6B	ADVANTECH CO. LTD.	Vlan310	GE-IX	franklin-301-c4k-3_Gi5/15	05-12-2020
+FRANKLIN	franklin-core-c4k-1	10.62.210.16	00:D0:C9:B8:4A:88	ADVANTECH CO. LTD.	Vlan310	GE-IX	franklin-301-c4k-3_Gi5/14	09-03-2020
+FRANKLIN	franklin-core-pa-1	10.62.210.20	00:40:97:0C:B4:53	DATEX DIVISION OF	Vlan310	GE-IX	franklin-301-c4k-3_Fa4/18_Gi5/20	05-05-2020
+FRANKLIN	franklin-core-pa-1	10.62.210.21	00:40:97:0C:B3:FA	DATEX DIVISION OF	Vlan310	GE-IX	franklin-301-c4k-3_Fa4/20_Gi5/21	05-06-2020
+FRANKLIN	franklin-core-pa-1	10.62.210.22	00:40:97:0C:B3:EC	DATEX DIVISION OF	Vlan310	GE-IX	franklin-301-c4k-3_Fa4/21_Gi5/22	05-05-2020
+FRANKLIN	franklin-core-pa-1	10.62.210.23	00:40:97:0C:B4:A2	DATEX DIVISION OF	Vlan310	GE-IX	franklin-301-c4k-3_Fa4/22_Gi5/23	05-05-2020
+FRANKLIN	franklin-core-pa-1	10.62.210.24	00:40:97:0C:B3:FE	DATEX DIVISION OF	Vlan310	GE-IX	franklin-301-c4k-3_Fa4/17_Gi5/18	05-05-2020
+FRANKLIN	franklin-core-pa-1	10.62.210.25	00:40:97:0C:B3:ED	DATEX DIVISION OF	Vlan310	GE-IX	franklin-301-c4k-3_Fa4/23_Gi5/24	05-07-2020
+FRANKLIN	franklin-core-pa-1	10.62.210.27	00:40:97:0C:B3:F8	DATEX DIVISION OF	Vlan310	GE-IX	franklin-301-c4k-3_Fa4/27_Gi5/27	05-05-2020
+FRANKLIN	franklin-core-pa-1	10.62.210.28	00:40:97:0C:B4:D5	DATEX DIVISION OF	Vlan310	GE-IX	franklin-301-c4k-3_Fa4/29_Gi5/31	05-12-2020
+FRANKLIN	franklin-core-pa-1	10.62.210.29	00:40:97:0C:B4:79	DATEX DIVISION OF	Vlan310	GE-IX	franklin-301-c4k-3_Fa4/30_Gi5/30	05-07-2020
+FRANKLIN	franklin-core-pa-1	10.62.210.30	00:40:97:0C:B3:FB	DATEX DIVISION OF	Vlan310	GE-IX	franklin-301-c4k-3_Fa4/24_Gi5/26	05-05-2020
+FRANKLIN	franklin-core-pa-1	10.62.210.31	00:40:97:0C:B3:F7	DATEX DIVISION OF	Vlan310	GE-IX	franklin-301-c4k-3_Fa4/28_Gi5/28	05-05-2020
+FRANKLIN	franklin-core-pa-1	10.62.210.32	00:40:97:0C:B4:5C	DATEX DIVISION OF	Vlan310	GE-IX	franklin-301-c4k-3_Fa4/15_Gi5/17	05-05-2020
+FRANKLIN	franklin-core-c4k-1	10.62.210.33	B4:B5:2F:F2:2B:C8	Hewlett Packard	Vlan310	GE-IX	franklin-302-sw-4_Gi1/0/6	09-22-2020
+FRANKLIN	franklin-core-c4k-1	10.62.210.34	00:D0:C9:BE:FB:E2	ADVANTECH CO. LTD.	Vlan310	GE-IX	franklin-302-sw-4_Gi1/0/6	08-19-2020
+FRANKLIN	franklin-core-c4k-1	10.62.210.35	00:D0:C9:BA:F8:7E	ADVANTECH CO. LTD.	Vlan310	GE-IX	franklin-302-sw-4_Gi1/0/7	08-19-2020
+FRANKLIN	franklin-core-c4k-1	10.62.210.36	68:B5:99:41:46:9C	Hewlett Packard	Vlan310	GE-IX	franklin-302-sw-4_Gi1/0/5	09-29-2020
+FRANKLIN	franklin-core-c4k-1	10.62.210.37	00:D0:C9:ED:67:C2	ADVANTECH CO. LTD.	Vlan310	GE-IX	franklin-401-c4k-2_Gi3/27	08-19-2020
+FRANKLIN	franklin-core-c4k-1	10.62.210.38	00:D0:C9:ED:67:97	ADVANTECH CO. LTD.	Vlan310	GE-IX	franklin-401-c4k-2_Gi3/25	08-19-2020
+FRANKLIN	franklin-core-c4k-1	10.62.210.39	00:D0:C9:ED:67:64	ADVANTECH CO. LTD.	Vlan310	GE-IX	franklin-401-c4k-2_Gi3/28	08-19-2020
+FRANKLIN	franklin-core-c4k-1	10.62.210.40	00:D0:C9:ED:68:30	ADVANTECH CO. LTD.	Vlan310	GE-IX	franklin-302-sw-4_Gi1/0/2	08-19-2020
+FRANKLIN	franklin-core-c4k-1	10.62.210.41	A4:5D:36:63:D1:29	Hewlett Packard	Vlan310	GE-IX	franklin-401-c4k-2_Gi3/26	09-29-2020
+FRANKLIN	franklin-core-c4k-1	10.62.210.42	00:D0:C9:ED:69:5C	ADVANTECH CO. LTD.	Vlan310	GE-IX	franklin-302-sw-4_Gi1/0/3	06-17-2020
+FRANKLIN	franklin-core-c4k-1	10.62.210.43	A4:5D:36:63:D1:2C	Hewlett Packard	Vlan310	GE-IX	franklin-302-sw-4_Gi1/0/4	09-22-2020
+FRANKLIN	franklin-core-c4k-1	10.62.210.44	00:80:82:85:34:F1	PEP MODULAR COMPUTERS GMBH	Vlan310	GE-IX	franklin-201-c4k-3_Gi5/36	10-08-2020
+FRANKLIN	franklin-core-c4k-1	10.62.210.45	00:9C:02:06:85:DC	Hewlett Packard	Vlan310	GE-IX	franklin-201-c4k-3_Gi5/37	09-29-2020
+FRANKLIN	franklin-core-pa-1	10.62.210.46	00:80:82:86:9A:BF	PEP MODULAR COMPUTERS GMBH	Vlan310	GE-IX	franklin-201-c4k-3_Gi5/30	05-05-2020
+FRANKLIN	franklin-core-c4k-1	10.62.210.47	30:E1:71:BB:9F:12	Hewlett Packard	Vlan310	GE-IX	franklin-201-c4k-3_Gi5/31	09-29-2020
+FRANKLIN	franklin-core-pa-1	10.62.210.48	00:D0:C9:B2:6B:45	ADVANTECH CO. LTD.	Vlan310	GE-IX	franklin-101-c4k-3_Gi5/31	05-05-2020
+FRANKLIN	franklin-core-pa-1	10.62.210.49	00:D0:C9:B2:6B:33	ADVANTECH CO. LTD.	Vlan310	GE-IX	ranklin-302-sw-4_Gi1/0/9	05-05-2020
+FRANKLIN	franklin-core-pa-1	10.62.210.50	00:D0:C9:BE:21:9A	ADVANTECH CO. LTD.	Vlan310	GE-IX	ranklin-302-sw-4_Gi1/0/10	05-05-2020
+FRANKLIN	franklin-core-pa-1	10.62.210.51	00:D0:C9:ED:4A:39	ADVANTECH CO. LTD.	Vlan310	GE-IX	ranklin-302-sw-4_Gi1/0/11	05-05-2020
+SFH	sfh-core-pa-1	10.41.250.7	00:D0:23:05:80:71	INFORTREND TECHNOLOGY INC.	Vlan284	Clinical	sfh-302-sw-6_Gi1/0/34	05-04-2020
+SFH	sfh-core-c4k-1	10.41.250.61	74:D0:2B:CB:CA:B6	ASUSTek COMPUTER INC.	Vlan284	Clinical	sfh-203-sw-1_Gi1/0/30	05-27-2020
+SFH	wigle-sfh-core-fw-cl1	10.41.250.110	00:D0:C9:D1:2C:B0	ADVANTECH CO. LTD.	Vlan284	Clinical	sfh-203-sw-4_Gi1/0/38	07-24-2020
+SFH	sfh-core-c4k-1	10.41.250.111	00:D0:C9:D1:2F:C9	ADVANTECH CO. LTD.	Vlan284	Clinical	sfh-104-sw-1_Gi1/0/25	05-22-2020
+SFH	wigle-sfh-core-fw-cl1	10.41.250.183	B4:B5:2F:A5:6C:98	Hewlett Packard	Vlan284	Clinical	sfh-302-sw-6_Gi1/0/36	10-26-2020
+SFH	sfh-core-c4k-1	10.41.250.230	68:05:CA:03:76:FB	Intel Corporate	Vlan284	Clinical	sfh-302-sw-3_Gi1/0/37	10-26-2020
+SFH	sfh-core-c4k-1	10.69.136.20	00:0E:8E:43:EB:F0	SparkLAN Communications, Inc.	Vlan284	Clinical	sfh-203-sw-1_Gi1/0/14	08-25-2020
+SFH	sfh-core-c3k-1	10.69.136.23	64:51:06:41:C2:F4	Hewlett Packard	Vlan284	Clinical	sfh-108-sw-1_Gi1/0/20	05-20-2020
+SFH	wigle-sfh-core-fw-cl1	10.69.184.34	00:10:18:EA:3D:EA	Broadcom	Vlan284	Clinical	sfh-208-sw-2_Gi1/0/10	10-26-2020
+SFH	wigle-sfh-core-fw-cl1	10.69.184.56	00:19:0F:11:01:18	Advansus Corp.	Vlan284	Clinical	sfh-core-sw-4_Gi1/0/13	10-26-2020
+SFH	sfh-core-c3k-1	10.69.184.131	C4:7D:CC:04:30:51	Zebra Technologies Inc	Vlan284	Clinical	sfh-b01-sw-3_Gi1/0/14	05-19-2020
+SFH	sfh-core-c4k-1	10.69.184.153	24:BE:05:1F:1B:30	Hewlett Packard	Vlan284	Clinical	sfh-105-sw-1_Gi1/0/43	05-29-2020
+SFH	sfh-core-c3k-1	10.69.168.20	84:2B:2B:9E:22:B6	Dell Inc.	Vlan268	Environmental	sfh-g06-sw-1_Gi1/0/13	05-14-2020
+SFH	sfh-core-pa-1	10.69.168.31	BC:30:5B:A9:6A:9C	Dell Inc.	Vlan268	Environmental	sfh-b01-sw-1_Gi1/0/44	05-04-2020
+SFH	sfh-core-pa-1	10.69.168.35	00:02:99:12:99:53	Apex Inc.	Vlan268	Environmental	sfh-203-sw-1_Gi1/0/10	05-01-2020
+SJOC	wigle-sjoc-core-fw-1	10.70.168.20	D4:3D:7E:35:AB:DB	Micro-Star Int"l Co Ltd	Vlan268	Environmental	sjoc-501-sw-3_Gi1/0/36	10-26-2020
+SJOC	sjoc-core-pa-1	10.70.210.14	00:D0:C9:9E:80:9A	ADVANTECH CO. LTD.	Vlan310	GE-IX	sjoc-101-sw-5_Gi1/0/3	05-14-2020
+SJH	sjh-core-pa-1	192.168.2.30	3C:A8:2A:FA:A2:E5	Hewlet Packard	Vlan667	Vendor-inside	sjh-303-sw-1_Gi1/011	06-09-2020
+SJH	sjh-core-pa-1	192.168.2.33	8C:DC:D4:31:2A:DB	Hewlett Packard	Vlan667	Vendor-inside	sjh-303-sw-1_Gi1/0/17	05-20-2020
+SJH	sjh-core-pa-1	192.168.2.40	18:60:24:26:97:91	Hewlet Packard	Vlan667	Vendor-inside	sjh-202-sw-1_Gi1/0/1	06-09-2020
+SJH	sjh-core-pa-1	192.168.2.48	00:10:20:97:BC:83	Hand Held Products Inc	Vlan667	Vendor-inside	sjh-g06-sw-1_Gi1/0/43	06-09-2020
+SJH	sjh-core-pa-1	10.43.148.8	5C:5E:AB:90:FE:40	Juniper Networks	Vlan284	Clinical	sjh-pll-sw-1_Gi1/0/40	06-09-2020
+SJH	sjh-core-pa-1	10.43.250.24	00:90:0B:44:7D:16	LANNER ELECTRONICS INC.	Vlan284	Clinical	sjh-206-sw-3_Gi1/0/8	06-09-2020
+SJH	sjh-core-pa-1	10.43.250.32	8C:DC:D4:32:6D:DB	Hewlett Packard	Vlan284	Clinical	sjh-109-sw-1_Gi1/0/38	06-08-2020
+SJH	sjh-core-pa-1	10.43.250.55	00:B0:D0:84:B7:90	Dell Inc.	Vlan284	Clinical	sjh-109-sw-3_Gi1/0/38	06-09-2020
+SJH	sjh-core-pa-1	10.43.250.56	40:A8:F0:4D:3A:2C	Hewlett Packard	Vlan284	Clinical	sjh-109-sw-3_Gi1/0/42	06-09-2020
+SJH	sjh-core-pa-1	10.43.250.171	00:D0:56:C2:80:8B	SOMAT CORPORATION	Vlan284	Clinical	sjh-111-sw-2_Fa0/46	06-09-2020
+SJH	sjh-core-pa-1	10.43.251.34	00:E0:81:72:55:02	TYAN COMPUTER CORP.	Vlan284	Clinical	sjh-206-sw-3_Gi1/0/33	06-09-2020
+SJH	sjh-core-pa-1	10.43.251.35	00:E0:81:72:72:C0	TYAN COMPUTER CORP.	Vlan284	Clinical	sjh-206-sw-2_Gi1/0/3	06-09-2020
+SJH	sjh-core-pa-1	10.43.251.36	00:16:35:6C:96:29	Hewlett Packard	Vlan284	Clinical	sjh-206-sw-2_Gi1/0/39	06-09-2020
+SJH	sjh-core-pa-1	10.43.251.85	A0:D3:C1:14:F7:52	Hewlett Packard	Vlan284	Clinical	sjh-111-sw-2_Fa0/13	05-27-2020
+SJH	sjh-core-pa-1	10.43.253.16	40:B0:34:25:3A:65	Hewlett Packard	Vlan284	Clinical	sjh-g04-sw-1_Gi1/0/37	06-09-2020
+SJH	slh-core-pa-1	10.131.168.15	84:2B:2B:8E:EF:62	Dell Inc.	Vlan268	Environmental	slh-core-sw-3_Gi1/0/24	05-07-2020
+SJH	slh-core-pa-1	10.131.168.17	00:01:F0:92:6C:92	Tridium Inc.	Vlan268	Environmental	slh-sl5c-sw-1_Fa0/15	05-07-2020
+SMC	smc-core-pa-1	10.130.232.68	00:18:7D:39:E2:AE	Armorlink Co .Ltd	Vlan348	Carepoint	smc-106-sw-2_Fa0/39	05-27-2020
+SMC	smc-core-pa-1	10.130.232.69	00:18:7D:39:E3:E0	Armorlink Co .Ltd	Vlan348	Carepoint	smc-106-sw-3_Fa0/29	05-27-2020
+SMC	smc-core-c65-1	172.16.44.19	68:05:CA:11:E0:F0	Intel Corporate	Vlan284	Clinical	smc-106-sw-5_Gi1/0/8	07-23-2020
+SMC	smc-core-pa-1	172.16.44.33	00:04:23:C7:71:16	Intel Corporation	Vlan284	Clinical	smc-104-sw-1_Fa0/2	05-21-2020
+SMC	smc-core-c65-1	172.16.44.38	00:0E:0C:60:18:B5	Intel Corporation	Vlan284	Clinical	smc-105-sw-1_Fa0/5	10-08-2020
+SMC	smc-core-c65-1	172.16.44.101	00:11:85:6C:83:49	Hewlett Packard	Vlan284	Clinical	smc-110-sw-2_Gi1/0/44	10-26-2020
+SMC	smc-core-pa-1	172.16.44.102	68:05:CA:2A:67:13	Intel Corporate	Vlan284	Clinical	smc-110-sw-2_Gi1/0/44	05-22-2020
+SMC	smc-core-pa-1	172.16.44.105	40:A8:F0:CB:51:89	Hewlett Packard	Vlan284	Clinical	smc-104-sw-1_Fa0/27	05-22-2020
+SMC	smc-core-c65-1	172.16.44.172	00:01:6C:D8:30:4E	FOXCONN	Vlan284	Clinical	smc-108-sw-6_Fa0/7	10-26-2020
+SMC	smc-core-c65-1	172.16.44.206	00:1D:B3:D8:AE:20	HPN Supply Chain	Vlan284	Clinical	smc-305-swstk-1_Gi2/0/47	10-26-2020
+SMC	smc-core-c65-1	172.16.64.28	50:65:F3:4B:1F:91	Hewlett Packard	Vlan284	Clinical	smc-g07-sw-4_Gi0/33	07-07-2020
+SMC	smc-core-c65-1	172.16.64.29	00:0D:05:06:24:6E	cybernet manufacturing inc.	Vlan284	Clinical	smc-g07-sw-4_Fa0/14	08-14-2020
+SMC	smc-core-pa-1	172.16.64.51	6C:2B:59:FB:69:D4	Dell Inc.	Vlan284	Clinical	smc-g07-sw-4_Fa0/13	06-02-2020
+SMC	smc-core-pa-1	172.16.64.120	90:1B:0E:6C:36:82	Fujitsu Technology Solutions GmbH	Vlan284	Clinical	smc-g07-sw-4_Fa0/22	06-02-2020
+SMC	smc-core-pa-1	172.16.64.140	10:0E:7E:F7:A5:80	Juniper Networks	Vlan284	Clinical	smc-g07-sw-4_Fa0/24	06-02-2020
+SMC	smc-core-pa-1	172.16.64.186	88:A2:5E:03:B5:C0	Juniper Networks	Vlan284	Clinical	smc-g07-sw-4_Fa0/31	06-02-2020
+SMC	smc-core-c65-1	172.16.64.250	00:19:B9:D1:C5:32	Dell Inc.	Vlan284	Clinical	smc-g02-sw-4_Fa0/44	10-26-2020
+SMC	smc-core-c65-1	172.16.248.20	00:17:A4:48:5F:59	Hewlett Packard	Vlan284	Clinical	smc-g02-sw-4_Fa0/24	10-26-2020
+SMC	smc-core-pa-1	172.16.248.24	00:19:BB:EA:F9:96	Hewlett Packard	Vlan284	Clinical	smc-402-sw-5_Fa0/5	05-05-2020
+SMC	smc-core-pa-1	172.16.248.28	00:E0:81:74:42:76	TYAN COMPUTER CORP.	Vlan284	Clinical	smc-g02-sw-4_Fa/22	06-02-2020
+SMC	smc-core-pa-1	172.16.248.29	00:E0:81:74:42:56	TYAN COMPUTER CORP.	Vlan284	Clinical	smc-g02-sw-4_Fa0/23	06-02-2020
+SMC	smc-core-pa-1	10.130.136.14	D8:9D:67:C6:4C:BD	Hewlett Packard	Vlan284	Clinical	smc-110-sw-4_Gi1/0/25	05-22-2020
+SMC	wigle-smc-core-fw-1	10.130.136.15	00:D0:C9:E0:69:F5	ADVANTECH CO. LTD.	Vlan284	Clinical	smc-104-sw-2_Fa0/27	06-25-2020
+SMC	wigle-smc-core-fw-1	10.130.136.16	00:0B:AB:AB:79:81	Advantech Technology (CHINA) Co. Ltd.	Vlan284	Clinical	smc-110-sw-4_Gi1/0/46	06-25-2020
+SMC	wigle-smc-core-fw-1	10.130.184.28	00:19:0F:12:73:1E	Advansus Corp.	Vlan284	Clinical	mc-305-swstk-1_Gi3/0/11	10-20-2020
+SMC	wigle-smc-core-fw-1	10.130.184.33	A0:D3:C1:2B:C2:AF	Hewlett Packard	Vlan284	Clinical	smc-110-sw-3_Gi1/0/3	10-26-2020
+SMC	wigle-smc-core-fw-1	10.130.184.34	C4:7D:CC:00:DC:30	Zebra Technologies Inc	Vlan284	Clinical	smc-g02-sw-4_Fa0/27	10-21-2020
+SMC	wigle-smc-core-fw-1	10.153.66.2	00:80:92:3D:F3:14	Silex Technology Inc.	Vlan284	Clinical	smc-core-c65-2	10-26-2020
+SMC	wigle-smc-core-fw-1	10.153.66.19	E0:9D:31:B2:80:28	Intel Corporate	Vlan284	Clinical	smc-core-c65-2	10-26-2020
+EMH	emh-core-c4k-1	10.44.250.60	00:24:21:0E:F1:99	Micro-Star Intl Co	Vlan284	Clinical	emh-204-sw-3_Gi1/0/11	05-27-2020
+EMH	emh-core-c4k-1	10.44.250.84	00:0B:AB:6F:C3:83	Advantech Technology (CHINA) Co. Ltd.	Vlan284	Clinical	emh-204-sw-9_Fa0/45	07-07-2020
+FRANKLIN	franklin-core-c4k-1	10.62.210.19	00:40:97:0C:B3:F0	DATEX DIVISION OF	Vlan310	GE-IX	franklin-301-c4k-3_Gi4/19_5/19	09-11-2020
+FRANKLIN	franklin-core-pa-1	10.62.210.26	00:40:97:0C:B3:E5	DATEX DIVISION OF	Vlan310	GE-IX	franklin-301-c4k-3_Fa4/25_Gi5/25	05-12-2020
+SFH	wigle-sfh-core-fw-cl1	10.153.14.7	00:40:17:6C:F9:C6	Silex Technology America	Vlan284	Clinical	sfh-104-sw-6_Gi1/0/25	10-26-2020
+SJOC	sjoc-core-pa-1	10.153.18.3	00:40:17:8E:D2:32	Silex Technology America	Vlan284	Clinical	sjoc-301-sw-6_Gi1/0/19	05-12-2020
+SJH	sjh-core-pa-1	192.168.2.55	C8:5B:76:2C:82:74	LCFC(HeFei) Electronics Technology co., ltd	Vlan667	Vendor-inside	sjh-202-sw-1_Gi1/0/42	05-12-2020
+SMC	smc-core-c65-1	172.16.44.89	00:0B:AB:C8:FB:F4	Advantech Technology (CHINA) Co. Ltd.	Vlan284	Clinical	smc-108-sw-4_Gi1/0/2	06-03-2020
+SMC	smc-core-pa-1	10.130.184.41	00:19:0F:1E:93:09	Advansus Corp.	Vlan284	Clinical	smc-202-sw-6_Fa0/1	05-04-2020
+SMC	wigle-smc-core-fw-1	10.130.184.215	00:E0:F4:2F:34:91	INSIDE Technology A/S	Vlan284	Clinical	smc-110-sw-5_Gi1/0/9	06-26-2020
+FRANKLIN	franklin-core-c4k-1	10.62.136.44	74:D0:2B:26:F5:D6	ASUSTek COMPUTER INC.	Vlan284	Clinical	franklin-103-c4k-1_Gi4/40	06-09-2020
+SFH	wigle-sfh-core-fw-cl1	10.69.184.55	00:19:0F:11:01:22	Advansus Corp.	Vlan284	Clinical	sfh-core-sw-4_Gi1/0/6	10-14-2020
+SJH	sjh-core-pa-1	10.43.250.16	40:A8:F0:4D:37:19	Hewlett Packard	Vlan284	Clinical	sjh-109-sw-3_Gi1/0/44	05-28-2020
+SMC	smc-core-pa-1	172.16.44.87	E0:3F:49:7A:43:60	ASUSTek COMPUTER INC.	Vlan284	Clinical	smc-110-sw-3_Gi1/0/37	05-27-2020
+SMC	smc-g12-c4k-1	192.168.200.26	D0:77:14:84:61:50	Motorola Mobility LLC	Vlan100	Network Management	sfh-103-sw-5_Gi1/0/23	05-11-2020
+SJH	sjh-core-pa-1	192.168.2.38	8C:DC:D4:31:2A:DF	Hewlett Packard	Vlan667	Vendor-inside	sjh-303-sw-1_Gi1/0/30	05-12-2020
+CDC	cdc-cr-n7k-1-agg	10.71.76.10	00:00:5E:00:01:02	ICANN	Vlan1134	Non_VPN_Routing	cdc-cr-n7k-2-agg_UNK	10-26-2020
+CDC	cdc-cr-n7k-1-agg	10.71.249.22	02:1F:A0:00:00:0A	A10	Vlan1127	Test_PACS	PACS-A10-Prod	10-26-2020
+CDC	cdc-cr-n7k-1-agg	10.71.249.25	02:1F:A0:00:00:0A	A10	Vlan1127	Test_PACS	PACS-A10-Prod	10-26-2020
+CDC	cdc-cr-n7k-1-agg	10.71.249.36	02:1F:A0:00:00:0A	A10	Vlan1127	Test_PACS	PACS-A10-Prod	10-26-2020
+CDC	cdc-cr-n7k-1-agg	10.71.249.41	02:1F:A0:00:00:0A	A10	Vlan1127	Test_PACS	PACS-A10-Prod	10-26-2020
+CDC	cdc-cr-n7k-1-agg	10.71.249.49	02:1F:A0:00:00:0A	A10	Vlan1127	Test_PACS	PACS-A10-Prod	10-26-2020
+CDC	cdc-cr-n7k-1-agg	10.71.249.58	00:1F:A0:13:96:9A	A10 Networks	Vlan1127	Test_PACS	PACS-A10-Prod	10-26-2020
+CDC	cdc-cr-n7k-1-agg	10.71.249.59	00:1F:A0:13:98:3E	A10 Networks	Vlan1127	Test_PACS	PACS-A10-Prod	10-26-2020
+CDC	cdc-cr-n7k-1-agg	10.71.248.4	40:55:39:22:F3:C2	Cisco Systems	Vlan1124	Prd-PACS-L3	CDC-AGG_PO220	06-26-2020
+CDC	cdc-cr-n7k-1-agg	10.71.248.5	40:55:39:23:A6:42	Cisco Systems	Vlan1124	Prd-PACS-L3	CDC-AGG_PO220	06-26-2020
+CDC	cdc-cr-n7k-1-agg	10.71.248.22	02:1F:A0:00:00:09	A10	Vlan1124	Prd-PACS-L3	CDC-AGG_PO220	10-26-2020
+CDC	cdc-cr-n7k-1-agg	10.71.248.30	00:1F:A0:13:97:EE	A10 Networks	Vlan1124	Prd-PACS-L3	CDC-AGG_PO220	10-26-2020
+CDC	cdc-cr-n7k-1-agg	10.71.248.31	00:1F:A0:13:97:EE	A10 Networks	Vlan1124	Prd-PACS-L3	CDC-AGG_PO220	10-26-2020
+CDC	cdc-cr-n7k-1-agg	10.71.248.32	00:1F:A0:13:97:EE	A10 Networks	Vlan1124	Prd-PACS-L3	CDC-AGG_PO220	10-26-2020
+CDC	cdc-cr-n7k-1-agg	10.71.248.35	00:1F:A0:13:97:EE	A10 Networks	Vlan1124	Prd-PACS-L3	CDC-AGG_PO220	10-26-2020
+CDC	cdc-cr-n7k-1-agg	10.71.248.37	02:1F:A0:00:00:09	A10	Vlan1124	Prd-PACS-L3	CDC-AGG_PO220	10-19-2020
+CDC	cdc-cr-n7k-1-agg	10.71.248.38	02:1F:A0:00:00:09	A10	Vlan1124	Prd-PACS-L3	CDC-AGG_PO220	10-19-2020
+CDC	cdc-cr-n7k-1-agg	10.71.248.49	00:50:56:03:EA:40	VMWare	Vlan1124	Prd-PACS-L3	sjh-cr-r807-n5k-1_Eth153/1/5	10-26-2020
+CDC	cdc-cr-n7k-1-agg	10.71.248.74	00:1F:A0:13:97:ED	A10 Networks	Vlan1124	Prd-PACS-L3	CDC-AGG_PO220	10-26-2020
+CDC	cdc-cr-n7k-1-agg	10.71.248.101	2C:59:E5:35:6F:84	Hewlet Packard	Vlan1124	Prd-PACS-L3	cdc-cr-r131-n5k-1_Eth101/1/31	10-26-2020
+CDC	cdc-cr-n7k-1-agg	10.71.248.106	00:50:56:B3:38:7D	VMWare	Vlan1124	Prd-PACS-L3	cdc-cr-r529-n5k-2_PO204	10-26-2020
+CDC	cdc-cr-n7k-1-agg	10.71.254.192	18:8B:9D:72:C5:FE	Cisco Systems	Vlan1118	Network Management	cdc-cr-n7k-2-agg_Eth104/1/14	10-26-2020
+CDC	cdc-cr-n7k-1-agg	10.71.254.193	D8:B1:90:19:68:92	Cisco Systems	Vlan1118	Network Management	cdc-cr-n7k-2-agg_Eth104/1/16	10-26-2020
+CDC	cdc-cr-n7k-1-agg	10.71.254.254	00:50:56:B3:7B:3E	VMWare	Vlan1118	Network Management	cdc-cr-r333-n5k-1_PO210	10-26-2020
+CDC	cdc-cr-n7k-1-agg	10.27.100.206	00:50:56:B3:19:B6	VMWare	Vlan430	WOC-PACS	cdc-cr-r333-n5k-1_PO212	10-26-2020
+CDC	cdc-cr-n7k-1-agg	10.27.100.207	00:50:56:B3:45:5F	VMWare	Vlan430	WOC-PACS	cdc-cr-r333-n5k-1_PO212	10-26-2020
+CDC	cdc-cr-n7k-1-agg	10.27.100.208	00:50:56:B3:47:C2	VMWare	Vlan430	WOC-PACS	cdc-cr-r333-n5k-1_PO211	10-26-2020
+CDC	cdc-cr-n7k-1-agg	10.27.100.209	00:50:56:B3:4F:2F	VMWare	Vlan430	WOC-PACS	cdc-cr-r529-n5k-1_PO204	10-26-2020
+CDC	cdc-cr-n7k-1-agg	10.27.100.210	00:50:56:B3:55:09	VMWare	Vlan430	WOC-PACS	cdc-cr-r333-n5k-1_PO212	10-26-2020
+CDC	cdc-cr-n7k-1-agg	10.27.100.211	00:50:56:B3:0D:7E	VMWare	Vlan430	WOC-PACS	cdc-cr-r333-n5k-1_PO211	10-26-2020
+CDC	cdc-cr-n7k-1-agg	10.27.100.212	00:50:56:B3:2A:1D	VMWare	Vlan430	WOC-PACS	cdc-cr-r333-n5k-1_PO204	10-26-2020
+CDC	cdc-cr-n7k-1-agg	10.27.100.213	00:50:56:B3:66:C5	VMWare	Vlan430	WOC-PACS	cdc-cr-r333-n5k-1_PO204	10-26-2020
+CDC	cdc-cr-n7k-1-agg	10.27.100.214	00:50:56:B3:1E:E0	VMWare	Vlan430	WOC-PACS	cdc-cr-r333-n5k-1_PO211	10-26-2020
+SLH	slh-core-c4k-2	172.16.89.252	00:40:9D:3D:7A:A9	DigiBoard	Vlan450	Wander_Guard	slh-core-c4k-1_Gi2/5	05-20-2020
+SMC	wigle-smc-core-fw-1	10.153.66.12	00:40:17:8F:1C:82	Silex Technology America	Vlan284	Clinical	smc-core-c65-2_Po200	10-09-2020
+CDC	cdc-cr-n7k-1-agg	10.6.0.4	00:17:A4:77:E4:F4	Hewlett Packard	Vlan420	VMWare Managment	cdc-cr-r333-n5k-1_PO212	10-26-2020
+CDC	cdc-cr-n7k-1-agg	10.6.0.5	00:17:A4:77:0C:56	Hewlett Packard	Vlan420	VMWare Managment	cdc-cr-r333-n5k-1_PO212	10-26-2020
+CDC	cdc-cr-n7k-1-agg	10.6.0.6	00:17:A4:77:0C:64	Hewlett Packard	Vlan420	VMWare Managment	cdc-cr-r333-n5k-1_PO212	10-26-2020
+CDC	cdc-cr-n7k-1-agg	10.6.0.7	00:17:A4:77:24:14	Hewlett Packard	Vlan420	VMWare Managment	cdc-cr-r333-n5k-1_PO210	10-26-2020
+CDC	cdc-cr-n7k-1-agg	10.6.0.8	00:17:A4:77:D0:3C	Hewlett Packard	Vlan420	VMWare Managment	cdc-cr-r108-n5k-1_PO208	10-26-2020
+CDC	cdc-cr-n7k-1-agg	10.6.0.9	00:17:A4:77:C0:14	Hewlett Packard	Vlan420	VMWare Managment	cdc-cr-r108-n5k-1_PO208	10-26-2020
+CDC	cdc-cr-n7k-1-agg	10.8.19.88	A4:5D:36:FB:03:2C	Hewlett Packard	Vlan419	ILO Management	cdc-cr-r131-sw-1_Fe0/15	10-26-2020
+CDC	cdc-cr-n7k-1-agg	10.1.1.53	22:59:5B:2D:19:95	UNK	Vlan301	CDC_Servers	cdc-cr-n7k-1-agg_PO214	10-26-2020
+CDC	cdc-cr-n7k-1-agg	10.1.1.61	16:FE:0B:25:D7:70	UNK	Vlan301	CDC_Servers	cdc-cr-n7k-1-agg_PO214	10-26-2020
+CDC	cdc-cr-n7k-1-agg	10.1.199.157	00:17:A4:77:D8:52	Hewlett Packard	Vlan301	CDC_Servers	dc-cr-r713-n5k-2_PO208	10-26-2020
+CDC	cdc-cr-n7k-1-agg	10.1.200.33	00:50:56:BA:38:68	VMWare	Vlan301	CDC_Servers	cdc-cr-n7k-1-agg	10-26-2020
+CDC	cdc-cr-n7k-1-agg	10.1.200.116	00:50:56:B3:6A:F2	VMWare	Vlan301	CDC_Servers	cdc-cr-n7k-1-agg	10-26-2020
+CDC	cdc-cr-n7k-1-agg	10.1.200.118	00:50:56:B3:45:19	VMWare	Vlan301	CDC_Servers	cdc-cr-n7k-1-agg	10-26-2020
+CDC	cdc-cr-n7k-1-agg	10.1.200.119	00:50:56:B3:6A:6B	VMWare	Vlan301	CDC_Servers	cdc-cr-n7k-1-agg	10-26-2020
+CDC	cdc-cr-n7k-1-agg	10.1.200.121	00:50:56:B3:64:8A	VMWare	Vlan301	CDC_Servers	cdc-cr-n7k-1-agg	10-26-2020
+CDC	cdc-cr-n7k-1-agg	10.1.200.145	00:50:56:B3:5E:F6	VMWare	Vlan301	CDC_Servers	cdc-cr-n7k-1-agg	09-18-2020
+CDC	cdc-cr-n7k-1-agg	10.1.200.153	00:50:56:B3:37:C0	VMWare	Vlan301	CDC_Servers	cdc-cr-n7k-1-agg	09-18-2020
+CDC	cdc-cr-n7k-1-agg	10.1.200.163	00:50:56:B1:0B:20	VMWare	Vlan301	CDC_Servers	cdc-cr-n7k-1-agg	10-26-2020
+CDC	cdc-cr-n7k-1-agg	10.1.200.169	00:50:56:B3:08:7D	VMWare	Vlan301	CDC_Servers	cdc-cr-n7k-1-agg	10-26-2020
+CDC	cdc-cr-n7k-1-agg	10.1.200.208	00:50:56:B3:03:FE	VMWare	Vlan301	CDC_Servers	cdc-cr-n7k-1-agg	10-26-2020
+CDC	cdc-cr-n7k-1-agg	10.1.200.243	00:50:56:B3:2D:88	VMWare	Vlan301	CDC_Servers	cdc-cr-n7k-1-agg	10-26-2020
+CDC	cdc-cr-n7k-1-agg	10.1.200.244	00:50:56:A6:16:3F	VMWare	Vlan301	CDC_Servers	cdc-cr-n7k-1-agg	10-26-2020
+CDC	cdc-cr-n7k-1-agg	10.1.201.40	00:1E:0B:90:91:F4	Hewlet Packard	Vlan301	CDC_Servers	cdc-cr-n7k-1-agg	10-26-2020
+CDC	cdc-cr-n7k-1-agg	10.1.201.42	00:50:56:B3:6D:89	VMWare	Vlan301	CDC_Servers	cdc-cr-n7k-1-agg	10-26-2020
+CDC	cdc-cr-n7k-1-agg	10.1.201.43	00:50:56:B3:1A:0D	VMWare	Vlan301	CDC_Servers	cdc-cr-n7k-1-agg	10-26-2020
+CDC	cdc-cr-n7k-1-agg	10.1.201.79	00:50:56:B3:7F:83	VMWare	Vlan301	CDC_Servers	cdc-cr-n7k-1-agg	10-26-2020
+CDC	cdc-cr-n7k-1-agg	10.1.201.129	00:50:56:B3:11:A2	VMWare	Vlan301	CDC_Servers	cdc-cr-n7k-1-agg	10-26-2020
+CDC	cdc-cr-n7k-1-agg	10.1.202.72	00:50:56:B3:76:50	VMWare	Vlan301	CDC_Servers	cdc-cr-n7k-1-agg	10-26-2020
+CDC	cdc-cr-n7k-1-agg	10.1.202.94	00:50:56:B3:0F:60	VMWare	Vlan301	CDC_Servers	cdc-cr-n7k-1-agg	10-26-2020
+CDC	cdc-cr-n7k-1-agg	10.1.203.121	00:40:9D:73:3C:43	DigiBoard	Vlan301	CDC_Servers	cdc-cr-n7k-1-agg	10-26-2020
+CDC	cdc-cr-n7k-1-agg	10.1.203.186	00:40:9D:6A:B1:DA	DigiBoard	Vlan301	CDC_Servers	cdc-cr-n7k-1-agg	10-26-2020
+CDC	cdc-cr-n7k-1-agg	10.1.206.50	78:2B:CB:32:C2:06	Dell Inc.	Vlan301	CDC_Servers	cdc-cr-n7k-1-agg	10-26-2020
+CDC	cdc-cr-n7k-1-agg	10.1.206.91	22:59:5B:2D:19:95	UNK	Vlan301	CDC_Servers	cdc-cr-n7k-1-agg	10-26-2020
+CDC	cdc-cr-n7k-1-agg	10.1.206.92	22:59:5B:2D:19:95	UNK	Vlan301	CDC_Servers	cdc-cr-n7k-1-agg	10-26-2020
+CDC	cdc-cr-n7k-1-agg	10.1.207.100	00:00:5E:00:01:02	ICANN	Vlan301	CDC_Servers	cdc-cr-n7k-1-agg	10-26-2020
+CDC	cdc-cr-n7k-1-agg	10.1.207.102	22:59:5B:2D:19:95	UNK	Vlan301	CDC_Servers	cdc-cr-n7k-1-agg	10-26-2020
+CDC	cdc-cr-n7k-1-agg	10.1.208.96	00:50:56:B3:65:43	VMWare	Vlan301	CDC_Servers	cdc-cr-n7k-1-agg	10-26-2020
+CDC	cdc-cr-n7k-1-agg	10.1.208.231	00:50:56:B3:11:2B	VMWare	Vlan301	CDC_Servers	cdc-cr-n7k-1-agg	10-26-2020
+CDC	cdc-cr-n7k-1-agg	10.1.209.187	00:50:56:B3:75:71	VMWare	Vlan301	CDC_Servers	cdc-cr-n7k-1-agg	10-26-2020
+CDC	cdc-cr-n7k-1-agg	10.1.210.3	00:50:56:B3:6D:14	VMWare	Vlan301	CDC_Servers	cdc-cr-n7k-1-agg	10-26-2020
+CDC	cdc-cr-n7k-1-agg	10.1.210.139	C8:1F:66:D9:61:16	Dell Inc.	Vlan301	CDC_Servers	cdc-cr-n7k-1-agg	10-26-2020
+CDC	cdc-cr-n7k-1-agg	10.1.211.56	00:50:56:B3:5B:E9	VMWare	Vlan301	CDC_Servers	cdc-cr-n7k-1-agg	10-26-2020
+CDC	cdc-cr-n7k-1-agg	10.1.211.59	00:50:56:B3:5F:6F	VMWare	Vlan301	CDC_Servers	cdc-cr-n7k-1-agg	10-26-2020
+CDC	cdc-cr-n7k-1-agg	10.1.212.19	00:50:56:B3:39:2E	VMWare	Vlan301	CDC_Servers	cdc-cr-n7k-1-agg	10-26-2020
+CDC	cdc-cr-n7k-1-agg	10.1.212.20	00:50:56:B3:7C:D5	VMWare	Vlan301	CDC_Servers	cdc-cr-n7k-1-agg	10-26-2020
+CDC	cdc-cr-n7k-1-agg	10.1.212.71	00:50:56:B3:5F:29	VMWare	Vlan301	CDC_Servers	cdc-cr-n7k-1-agg	10-26-2020
+CDC	cdc-cr-n7k-1-agg	10.1.212.209	00:50:56:B3:53:FF	VMWare	Vlan301	CDC_Servers	cdc-cr-n7k-1-agg	10-26-2020
+CDC	cdc-cr-n7k-1-agg	10.1.212.251	2C:44:FD:7D:3D:8C	Hewlet Packard	Vlan301	CDC_Servers	cdc-cr-n7k-1-agg	10-26-2020
+CDC	cdc-cr-n7k-1-agg	10.1.212.252	2C:44:FD:7D:38:B4	Hewlet Packard	Vlan301	CDC_Servers	cdc-cr-n7k-1-agg	10-26-2020
+CDC	cdc-cr-n7k-1-agg	10.1.254.254	00:13:21:1C:1C:CC	Hewlet Packard	Vlan301	CDC_Servers	cdc-cr-n7k-1-agg	10-26-2020
+CDC	cdc-cr-n7k-1-agg	10.114.32.3	40:55:39:03:E9:C2	Cisco Systems	Vlan1240	ARUBA_AH-SYS	cdc-cr-n7k-1-agg	05-18-2020
+CDC	cdc-cr-n7k-1-agg	10.114.48.3	40:55:39:03:E9:C2	Cisco Systems	Vlan1241	ARUBA_AH-VOICE	cdc-cr-n7k-1-agg	05-18-2020
+CDC	cdc-cr-n7k-1-agg	10.114.52.3	40:55:39:03:E9:C2	Cisco Systems	Vlan1242	ARUBA_AH-RNA	cdc-cr-n7k-1-agg	05-18-2020
+CDC	cdc-cr-n7k-1-agg	10.71.249.1	00:00:0C:9F:F4:67	Cisco Systems Inc	Vlan1127	Test_PACS	cdc-cr-n7k-1-agg	05-18-2020
+CDC	cdc-cr-n7k-1-agg	10.71.248.1	00:00:0C:9F:F4:64	Cisco Systems Inc	Vlan1124	Prd-PACS-L3	cdc-cr-n7k-1-agg	05-18-2020
+CDC	cdc-cr-n7k-1-agg	10.71.254.1	00:00:0C:9F:F4:5E	Cisco Systems Inc	Vlan1118	Network Management	cdc-cr-n7k-1-agg	05-18-2020
+CDC	cdc-cr-n7k-1-agg	10.27.100.1	00:00:0C:9F:F1:AE	Cisco Systems Inc	Vlan430	WOC-PACS	cdc-cr-n7k-1-agg	05-18-2020
+CDC	cdc-cr-n7k-1-agg	10.8.25.1	00:00:0C:9F:F1:A9	Cisco Systems Inc	Vlan425	Linux1	cdc-cr-n7k-1-agg	05-18-2020
+CDC	cdc-cr-n7k-1-agg	10.6.0.1	00:00:0C:9F:F1:A4	Cisco Systems Inc	Vlan420	VMWare Managment	cdc-cr-n7k-1-agg	05-18-2020
+CDC	cdc-cr-n7k-1-agg	10.8.19.1	00:00:0C:9F:F1:A3	Cisco Systems Inc	Vlan419	ILO Management	cdc-cr-n7k-1-agg	05-18-2020
+CDC	cdc-cr-n7k-1-agg	10.114.32.1	00:00:5E:00:01:13	ICANN	Vlan1240	ARUBA_AH-SYS	cdc-cr-n7k-1-agg	05-18-2020
+CDC	cdc-cr-n7k-1-agg	10.114.48.1	00:00:5E:00:01:14	ICANN	Vlan1241	ARUBA_AH-VOICE	cdc-cr-n7k-1-agg	05-18-2020
+CDC	cdc-cr-n7k-1-agg	10.114.52.1	00:00:5E:00:01:15	ICANN	Vlan1242	ARUBA_AH-RNA	cdc-cr-n7k-1-agg	05-18-2020
+SJH	sjh-cr-n7k-1-agg	10.27.250.3	40:55:39:23:A6:42	Cisco Systems	Vlan430	WOC-PACS	sjh-cr-n7k-1-agg	05-18-2020
+SJH	sjh-cr-n7k-1-agg	10.27.250.21	64:31:50:50:35:2C	Hewlet Packard	Vlan430	WOC-PACS	cdc-cr-n7k-1-agg	10-26-2020
+SJH	sjh-cr-n7k-1-agg	10.27.250.25	64:31:50:50:35:24	Hewlet Packard	Vlan430	WOC-PACS	cdc-cr-n7k-1-agg	10-26-2020
+SJH	sjh-cr-n7k-1-agg	10.1.199.255	C4:64:13:51:DA:41	Cisco Systems	Vlan301	CDC_Servers	sjh-cr-n7k-1-agg	05-18-2020
+SJH	sjh-cr-n7k-1-agg	10.27.250.1	00:00:0C:9F:F1:AE	Cisco Systems Inc	Vlan430	WOC-PACS	sjh-cr-n7k-1-agg	05-18-2020
+SMC	smc-g12-c4k-1	192.168.200.19	00:10:20:CF:E3:2F	Hand Held Products Inc	Vlan100	Network Management	smc-g12-c4k-1	05-15-2020
+SJH	sjh-core-pa-1	192.168.2.35	80:C1:6E:FF:21:BD	Hewlet Packard	Vlan667	Vendor-inside	sjh-303-sw-1_Gi1/0/23	05-26-2020
+SMC	smc-core-pa-1	172.16.64.119	68:05:CA:21:F5:34	Intel Corporate	Vlan284	Clinical	smc-core-pa-1	06-02-2020
+CDC	cdc-cr-n7k-1-agg	10.1.209.231	2C:44:FD:7D:3D:8C	Hewlet Packard	Vlan301	CDC_Servers	cdc-cr-r131-n5k-1_Eth102/1/27	10-23-2020
+CDC	cdc-cr-n7k-1-agg	10.1.209.241	2C:44:FD:7D:38:B4	Hewlet Packard	Vlan301	CDC_Servers	cdc-cr-r132-n5k-1_Eth103/1/23	10-26-2020
+SMC	smc-core-c65-1	172.16.128.220	00:00:12:01:00:01	INFORMATION TECHNOLOGY LIMITED	Vlan252	Printers	smc-601-stk-a_Gi3/0/23	05-20-2020
+SJH	sjh-cr-n7k-1-agg	10.71.249.22	02:1F:A0:00:00:0A	A10	Vlan1127	Test_PACS	PACS-A10-Prod	05-26-2020
+SJH	sjh-cr-n7k-1-agg	10.71.249.25	02:1F:A0:00:00:0A	A10	Vlan1127	Test_PACS	PACS-A10-Prod	05-26-2020
+SJH	sjh-cr-n7k-1-agg	10.71.249.36	02:1F:A0:00:00:0A	A10	Vlan1127	Test_PACS	PACS-A10-Prod	05-26-2020
+SJH	sjh-cr-n7k-1-agg	10.71.249.41	02:1F:A0:00:00:0A	A10	Vlan1127	Test_PACS	PACS-A10-Prod	05-26-2020
+SJH	sjh-cr-n7k-1-agg	10.71.249.49	02:1F:A0:00:00:0A	A10	Vlan1127	Test_PACS	PACS-A10-Prod	05-26-2020
+SJH	sjh-cr-n7k-1-agg	10.71.249.58	00:1F:A0:13:96:9A	A10 Networks	Vlan1127	Test_PACS	PACS-A10-Prod	05-26-2020
+SJH	sjh-cr-n7k-1-agg	10.71.249.59	00:1F:A0:13:98:3E	A10 Networks	Vlan1127	Test_PACS	PACS-A10-Prod	05-26-2020
+SJH	sjh-cr-n7k-1-agg	10.71.248.5	40:55:39:23:A6:42	Cisco Systems	Vlan1124	Prd-PACS-L3	CDC-AGG_PO220	05-26-2020
+SJH	sjh-cr-n7k-1-agg	10.71.248.22	02:1F:A0:00:00:09	A10	Vlan1124	Prd-PACS-L3	CDC-AGG_PO220	05-26-2020
+SJH	sjh-cr-n7k-1-agg	10.71.248.30	02:1F:A0:00:00:09	A10	Vlan1124	Prd-PACS-L3	CDC-AGG_PO220	05-26-2020
+SJH	sjh-cr-n7k-1-agg	10.71.248.31	02:1F:A0:00:00:09	A10	Vlan1124	Prd-PACS-L3	CDC-AGG_PO220	05-26-2020
+SJH	sjh-cr-n7k-1-agg	10.71.248.32	02:1F:A0:00:00:09	A10	Vlan1124	Prd-PACS-L3	CDC-AGG_PO220	05-26-2020
+SJH	sjh-cr-n7k-1-agg	10.71.248.35	02:1F:A0:00:00:09	A10	Vlan1124	Prd-PACS-L3	CDC-AGG_PO220	05-26-2020
+SJH	sjh-cr-n7k-1-agg	10.71.248.37	02:1F:A0:00:00:09	A10	Vlan1124	Prd-PACS-L3	CDC-AGG_PO220	05-26-2020
+SJH	sjh-cr-n7k-1-agg	10.71.248.38	02:1F:A0:00:00:09	A10	Vlan1124	Prd-PACS-L3	CDC-AGG_PO220	05-26-2020
+SJH	sjh-cr-n7k-1-agg	10.71.248.49	00:50:56:03:EA:40	VMWare	Vlan1124	Prd-PACS-L3	sjh-cr-r807-n5k-1_Eth153/1/5	05-26-2020
+SJH	sjh-cr-n7k-1-agg	10.71.248.74	00:1F:A0:13:97:ED	A10 Networks	Vlan1124	Prd-PACS-L3	CDC-AGG_PO220	05-26-2020
+SJH	sjh-cr-n7k-1-agg	10.71.248.101	2C:59:E5:35:6F:84	Hewlet Packard	Vlan1124	Prd-PACS-L3	cdc-cr-r131-n5k-1_Eth101/1/31	05-26-2020
+SJH	sjh-cr-n7k-1-agg	10.71.248.106	00:50:56:B3:38:7D	VMWare	Vlan1124	Prd-PACS-L3	cdc-cr-r529-n5k-2_PO204	05-26-2020
+SJH	sjh-cr-n7k-1-agg	10.6.0.4	00:17:A4:77:E4:F4	Hewlett Packard	Vlan420	VMWare Managment	cdc-cr-r333-n5k-1_PO212	05-26-2020
+SJH	sjh-cr-n7k-1-agg	10.6.0.5	00:17:A4:77:0C:56	Hewlett Packard	Vlan420	VMWare Managment	cdc-cr-r333-n5k-1_PO212	05-26-2020
+SJH	sjh-cr-n7k-1-agg	10.6.0.6	00:17:A4:77:0C:64	Hewlett Packard	Vlan420	VMWare Managment	cdc-cr-r333-n5k-1_PO212	05-26-2020
+SJH	sjh-cr-n7k-1-agg	10.6.0.7	00:17:A4:77:24:14	Hewlett Packard	Vlan420	VMWare Managment	cdc-cr-r333-n5k-1_PO210	05-26-2020
+SJH	sjh-cr-n7k-1-agg	10.6.0.8	00:17:A4:77:D0:3C	Hewlett Packard	Vlan420	VMWare Managment	cdc-cr-r108-n5k-1_PO208	05-26-2020
+SJH	sjh-cr-n7k-1-agg	10.6.0.9	00:17:A4:77:C0:14	Hewlett Packard	Vlan420	VMWare Managment	cdc-cr-r108-n5k-1_PO208	05-26-2020
+SJH	sjh-cr-n7k-1-agg	10.1.1.53	22:59:5B:2D:19:95	UNK	Vlan301	CDC_Servers	cdc-cr-n7k-1-agg_PO214	05-26-2020
+SJH	sjh-cr-n7k-1-agg	10.1.1.61	CE:1B:D1:EC:15:40	UNK	Vlan301	CDC_Servers	cdc-cr-n7k-1-agg_PO214	05-26-2020
+SJH	sjh-cr-n7k-1-agg	10.1.199.157	00:17:A4:77:D8:52	Hewlett Packard	Vlan301	CDC_Servers	dc-cr-r713-n5k-2_PO208	05-26-2020
+SJH	sjh-cr-n7k-1-agg	10.1.200.33	00:50:56:BA:38:68	VMWare	Vlan301	CDC_Servers	cdc-cr-n7k-1-agg	05-26-2020
+SJH	sjh-cr-n7k-1-agg	10.1.200.116	00:50:56:B3:6A:F2	VMWare	Vlan301	CDC_Servers	cdc-cr-n7k-1-agg	05-26-2020
+SJH	sjh-cr-n7k-1-agg	10.1.200.118	00:50:56:B3:45:19	VMWare	Vlan301	CDC_Servers	cdc-cr-n7k-1-agg	05-26-2020
+SJH	sjh-cr-n7k-1-agg	10.1.200.119	00:50:56:B3:6A:6B	VMWare	Vlan301	CDC_Servers	cdc-cr-n7k-1-agg	05-26-2020
+SJH	sjh-cr-n7k-1-agg	10.1.200.121	00:50:56:B3:64:8A	VMWare	Vlan301	CDC_Servers	cdc-cr-n7k-1-agg	05-26-2020
+SJH	sjh-cr-n7k-1-agg	10.1.200.145	00:50:56:B3:5E:F6	VMWare	Vlan301	CDC_Servers	cdc-cr-n7k-1-agg	05-26-2020
+SJH	sjh-cr-n7k-1-agg	10.1.200.153	00:50:56:B3:37:C0	VMWare	Vlan301	CDC_Servers	cdc-cr-n7k-1-agg	05-26-2020
+SJH	sjh-cr-n7k-1-agg	10.1.200.163	00:50:56:B1:0B:20	VMWare	Vlan301	CDC_Servers	cdc-cr-n7k-1-agg	05-26-2020
+SJH	sjh-cr-n7k-1-agg	10.1.200.169	00:50:56:B3:08:7D	VMWare	Vlan301	CDC_Servers	cdc-cr-n7k-1-agg	05-26-2020
+SJH	sjh-cr-n7k-1-agg	10.1.200.208	00:50:56:B3:03:FE	VMWare	Vlan301	CDC_Servers	cdc-cr-n7k-1-agg	05-26-2020
+SJH	sjh-cr-n7k-1-agg	10.1.200.243	00:50:56:B3:2D:88	VMWare	Vlan301	CDC_Servers	cdc-cr-n7k-1-agg	05-26-2020
+SJH	sjh-cr-n7k-1-agg	10.1.200.244	00:50:56:A6:16:3F	VMWare	Vlan301	CDC_Servers	cdc-cr-n7k-1-agg	05-26-2020
+SJH	sjh-cr-n7k-1-agg	10.1.201.40	00:1E:0B:90:91:F4	Hewlet Packard	Vlan301	CDC_Servers	cdc-cr-n7k-1-agg	05-26-2020
+SJH	sjh-cr-n7k-1-agg	10.1.201.42	00:50:56:B3:6D:89	VMWare	Vlan301	CDC_Servers	cdc-cr-n7k-1-agg	05-26-2020
+SJH	sjh-cr-n7k-1-agg	10.1.201.43	00:50:56:B3:1A:0D	VMWare	Vlan301	CDC_Servers	cdc-cr-n7k-1-agg	05-26-2020
+SJH	sjh-cr-n7k-1-agg	10.1.201.79	00:50:56:B3:7F:83	VMWare	Vlan301	CDC_Servers	cdc-cr-n7k-1-agg	05-26-2020
+SJH	sjh-cr-n7k-1-agg	10.1.201.129	00:50:56:B3:11:A2	VMWare	Vlan301	CDC_Servers	cdc-cr-n7k-1-agg	05-26-2020
+SJH	sjh-cr-n7k-1-agg	10.1.202.72	00:50:56:B3:76:50	VMWare	Vlan301	CDC_Servers	cdc-cr-n7k-1-agg	05-26-2020
+SJH	sjh-cr-n7k-1-agg	10.1.202.94	00:50:56:B3:0F:60	VMWare	Vlan301	CDC_Servers	cdc-cr-n7k-1-agg	05-26-2020
+SJH	sjh-cr-n7k-1-agg	10.1.203.121	00:40:9D:73:3C:43	DigiBoard	Vlan301	CDC_Servers	cdc-cr-n7k-1-agg	05-26-2020
+SJH	sjh-cr-n7k-1-agg	10.1.203.186	00:40:9D:6A:B1:DA	DigiBoard	Vlan301	CDC_Servers	cdc-cr-n7k-1-agg	05-26-2020
+SJH	sjh-cr-n7k-1-agg	10.1.206.50	78:2B:CB:32:C2:06	Dell Inc.	Vlan301	CDC_Servers	cdc-cr-n7k-1-agg	05-26-2020
+SJH	sjh-cr-n7k-1-agg	10.1.206.91	22:59:5B:2D:19:95	UNK	Vlan301	CDC_Servers	cdc-cr-n7k-1-agg	05-26-2020
+SJH	sjh-cr-n7k-1-agg	10.1.206.92	22:59:5B:2D:19:95	UNK	Vlan301	CDC_Servers	cdc-cr-n7k-1-agg	05-26-2020
+SJH	sjh-cr-n7k-1-agg	10.1.207.100	00:00:5E:00:01:02	ICANN	Vlan301	CDC_Servers	cdc-cr-n7k-1-agg	05-26-2020
+SJH	sjh-cr-n7k-1-agg	10.1.207.102	22:59:5B:2D:19:95	UNK	Vlan301	CDC_Servers	cdc-cr-n7k-1-agg	05-26-2020
+SJH	sjh-cr-n7k-1-agg	10.1.208.96	00:50:56:B3:65:43	VMWare	Vlan301	CDC_Servers	cdc-cr-n7k-1-agg	05-26-2020
+SJH	sjh-cr-n7k-1-agg	10.1.208.231	00:50:56:B3:11:2B	VMWare	Vlan301	CDC_Servers	cdc-cr-n7k-1-agg	05-26-2020
+SJH	sjh-cr-n7k-1-agg	10.1.209.187	00:50:56:B3:75:71	VMWare	Vlan301	CDC_Servers	cdc-cr-n7k-1-agg	05-26-2020
+SJH	sjh-cr-n7k-1-agg	10.1.210.3	00:50:56:B3:6D:14	VMWare	Vlan301	CDC_Servers	cdc-cr-n7k-1-agg	05-26-2020
+SJH	sjh-cr-n7k-1-agg	10.1.210.139	C8:1F:66:D9:61:16	Dell Inc.	Vlan301	CDC_Servers	cdc-cr-n7k-1-agg	05-26-2020
+SJH	sjh-cr-n7k-1-agg	10.1.211.56	00:50:56:B3:5B:E9	VMWare	Vlan301	CDC_Servers	cdc-cr-n7k-1-agg	05-26-2020
+SJH	sjh-cr-n7k-1-agg	10.1.211.59	00:50:56:B3:5F:6F	VMWare	Vlan301	CDC_Servers	cdc-cr-n7k-1-agg	05-26-2020
+SJH	sjh-cr-n7k-1-agg	10.1.212.19	00:50:56:B3:39:2E	VMWare	Vlan301	CDC_Servers	cdc-cr-n7k-1-agg	05-26-2020
+SJH	sjh-cr-n7k-1-agg	10.1.212.20	00:50:56:B3:7C:D5	VMWare	Vlan301	CDC_Servers	cdc-cr-n7k-1-agg	05-26-2020
+SJH	sjh-cr-n7k-1-agg	10.1.212.71	00:50:56:B3:5F:29	VMWare	Vlan301	CDC_Servers	cdc-cr-n7k-1-agg	05-26-2020
+SJH	sjh-cr-n7k-1-agg	10.1.212.209	00:50:56:B3:53:FF	VMWare	Vlan301	CDC_Servers	cdc-cr-n7k-1-agg	05-26-2020
+SJH	sjh-cr-n7k-1-agg	10.1.212.251	2C:44:FD:7D:3D:8C	Hewlet Packard	Vlan301	CDC_Servers	cdc-cr-n7k-1-agg	05-26-2020
+SJH	sjh-cr-n7k-1-agg	10.1.212.252	2C:44:FD:7D:38:B4	Hewlet Packard	Vlan301	CDC_Servers	cdc-cr-n7k-1-agg	05-26-2020
+SJH	sjh-cr-n7k-1-agg	10.1.254.254	00:13:21:1C:1C:CC	Hewlet Packard	Vlan301	CDC_Servers	cdc-cr-n7k-1-agg	05-26-2020
+CDC	cdc-cr-n7k-1-agg	10.1.209.232	2C:44:FD:7D:3D:8C	Hewlet Packard	Vlan301	CDC_Servers	cdc-cr-r131-n5k-1_Eth102/1/27	10-12-2020
+CDC	cdc-cr-n7k-1-agg	10.1.209.233	2C:44:FD:7D:3D:8C	Hewlet Packard	Vlan301	CDC_Servers	cdc-cr-r131-n5k-1_Eth102/1/27	10-20-2020
+CDC	cdc-cr-n7k-1-agg	10.1.209.234	2C:44:FD:7D:3D:8C	Hewlet Packard	Vlan301	CDC_Servers	cdc-cr-r131-n5k-1_Eth102/1/27	05-29-2020
+CDC	cdc-cr-n7k-1-agg	10.1.209.235	2C:44:FD:7D:3D:8C	Hewlet Packard	Vlan301	CDC_Servers	cdc-cr-r131-n5k-1_Eth102/1/27	05-20-2020
+CDC	cdc-cr-n7k-1-agg	10.1.209.236	2C:44:FD:7D:3D:8C	Hewlet Packard	Vlan301	CDC_Servers	cdc-cr-r131-n5k-1_Eth102/1/27	05-20-2020
+CDC	cdc-cr-n7k-1-agg	10.1.209.237	2C:44:FD:7D:3D:8C	Hewlet Packard	Vlan301	CDC_Servers	cdc-cr-r131-n5k-1_Eth102/1/27	05-20-2020
+CDC	cdc-cr-n7k-1-agg	10.1.209.242	2C:44:FD:7D:38:B4	Hewlet Packard	Vlan301	CDC_Servers	cdc-cr-r131-n5k-1_Eth103/1/23	10-23-2020
+CDC	cdc-cr-n7k-1-agg	10.1.209.243	2C:44:FD:7D:38:B4	Hewlet Packard	Vlan301	CDC_Servers	cdc-cr-r131-n5k-1_Eth103/1/27	10-20-2020
+CDC	cdc-cr-n7k-1-agg	10.1.209.244	2C:44:FD:7D:38:B4	Hewlet Packard	Vlan301	CDC_Servers	cdc-cr-r131-n5k-1_Eth103/1/27	10-20-2020
+CDC	cdc-cr-n7k-1-agg	10.1.209.245	2C:44:FD:7D:38:B4	Hewlet Packard	Vlan301	CDC_Servers	cdc-cr-r131-n5k-1_Eth103/1/27	05-20-2020
+CDC	cdc-cr-n7k-1-agg	10.1.209.246	2C:44:FD:7D:38:B4	Hewlet Packard	Vlan301	CDC_Servers	cdc-cr-r131-n5k-1_Eth103/1/27	05-20-2020
+CDC	cdc-cr-n7k-1-agg	10.1.209.247	2C:44:FD:7D:38:B4	Hewlet Packard	Vlan301	CDC_Servers	UNK	05-20-2020
+CDC	cdc-cr-n7k-1-agg	10.1.209.230	2C:44:FD:7D:3D:8C	Hewlet Packard	Vlan301	CDC_Servers	cdc-cr-r131-n5k-1_Eth103/1/27	10-26-2020
+EMH	emh-core-c4k-1	10.114.184.55	00:19:0F:1E:2C:5F	Advansus Corp.	Vlan284	Clinical	Unknown	10-26-2020
+SJH	sjh-core-pa-1	192.168.2.34	50:65:F3:3F:E6:B7	Hewlett Packard	Vlan667	Vendor-inside	sjh-303-sw-1_Gi1/0/47	06-09-2020
+SJH	sjh-cr-n7k-2-agg	10.71.248.4	40:55:39:22:F3:C2	Cisco Systems	Vlan1124	Prd-PACS-L3	CDC-AGG_PO220	05-26-2020
+SFH	sfh-core-c4k-1	10.69.184.155	00:19:0F:0F:44:F8	Advansus Corp.	Vlan284	Clinical	UNK	10-08-2020
+SJH	sjh-core-c65-1	10.112.232.84	84:24:8D:04:03:8E	Zebra Technologies Inc	Vlan352	WHEPP-Radio	sjh-801-sw-2_Fe0/23	10-26-2020
+SJH	sjh-core-c65-1	10.112.233.12	00:D0:85:02:09:F2	Otis Elevator Co.	Vlan396	Fire Alarm	sjh-801-sw-2_Fe0/18	07-30-2020
+SJH	sjh-core-c65-1	10.112.233.13	00:D0:85:02:09:F3	Otis Elevator Co.	Vlan396	Fire Alarm	sjh-801-sw-2_Fe0/17	10-26-2020
+SJH	sjh-core-c65-1	10.112.233.14	00:D0:85:02:09:F4	Otis Elevator Co.	Vlan396	Fire Alarm	sjh-601-sw-1_Gi1/0/5	10-26-2020
+SJH	sjh-core-pa-1	192.168.2.41	00:68:EB:62:22:03	HP Inc.	Vlan667	Vendor-inside	sjh-202-sw-1_Gi1/0/42	06-08-2020
+SJH	sjh-core-pa-1	10.112.210.11	00:D0:C9:D8:2C:5F	ADVANTECH CO. LTD.	Vlan310	GE-IX	UNK	06-09-2020
+SJH	sjh-core-pa-1	10.112.210.12	00:D0:C9:D8:2A:69	ADVANTECH CO. LTD.	Vlan310	GE-IX	UNK	06-09-2020
+SJH	sjh-core-pa-1	10.112.184.22	00:19:0F:11:01:20	Advansus Corp.	Vlan284	Clinical	UNK	06-09-2020
+SJH	sjh-core-pa-1	10.112.184.30	C4:7D:CC:07:2C:B1	Zebra Technologies Inc	Vlan284	Clinical	UNK	06-09-2020
+SJH	sjh-core-pa-1	10.112.184.82	AC:3F:A4:75:03:B2	TAIYO YUDEN CO.,LTD	Vlan284	Clinical	UNK	06-08-2020
+SJH	sjh-core-pa-1	10.112.184.86	AC:3F:A4:0E:12:22	TAIYO YUDEN CO.,LTD	Vlan284	Clinical	PO200	06-09-2020
+SJH	sjh-core-pa-1	10.112.168.20	00:1E:67:97:7C:82	Intel Corporate	Vlan268	Environmental	UNK	06-04-2020
+SJH	sjh-core-pa-1	10.112.168.21	00:D0:C9:DA:CC:B7	ADVANTECH CO. LTD.	Vlan268	Environmental	UNK	06-04-2020
+SJH	sjh-core-pa-1	10.112.168.22	00:D0:C9:EB:45:66	ADVANTECH CO. LTD.	Vlan268	Environmental	UNK	06-04-2020
+SJH	sjh-core-pa-1	10.112.168.23	00:D0:C9:EF:1D:0B	ADVANTECH CO. LTD.	Vlan268	Environmental	UNK	06-04-2020
+SJH	sjh-core-pa-1	10.112.168.24	00:D0:C9:DA:CC:AA	ADVANTECH CO. LTD.	Vlan268	Environmental	UNK	06-04-2020
+SJH	sjh-core-pa-1	10.112.168.25	00:D0:C9:DA:CC:B4	ADVANTECH CO. LTD.	Vlan268	Environmental	UNK	06-04-2020
+SJH	sjh-core-pa-1	10.112.168.26	00:D0:C9:DA:CC:B2	ADVANTECH CO. LTD.	Vlan268	Environmental	UNK	06-04-2020
+SJH	sjh-core-pa-1	10.112.168.27	00:D0:C9:EB:45:AA	ADVANTECH CO. LTD.	Vlan268	Environmental	UNK	06-04-2020
+SJH	sjh-core-pa-1	10.112.168.28	00:D0:C9:EB:45:A8	ADVANTECH CO. LTD.	Vlan268	Environmental	UNK	06-04-2020
+SJH	sjh-core-pa-1	10.112.168.29	00:D0:C9:EB:A3:9C	ADVANTECH CO. LTD.	Vlan268	Environmental	UNK	06-04-2020
+SJH	sjh-core-pa-1	10.112.168.30	00:D0:C9:DA:CC:BF	ADVANTECH CO. LTD.	Vlan268	Environmental	UNK	06-04-2020
+SJH	sjh-core-pa-1	10.112.168.31	00:D0:C9:EB:45:AF	ADVANTECH CO. LTD.	Vlan268	Environmental	UNK	06-04-2020
+SJH	sjh-core-pa-1	10.112.168.32	00:D0:C9:EB:45:AB	ADVANTECH CO. LTD.	Vlan268	Environmental	UNK	06-04-2020
+SJH	sjh-core-pa-1	10.112.168.33	00:D0:C9:CA:C9:82	ADVANTECH CO. LTD.	Vlan268	Environmental	UNK	06-04-2020
+SJH	sjh-core-pa-1	10.112.168.37	D0:67:E5:18:1E:A4	Dell Inc.	Vlan268	Environmental	UNK	06-09-2020
+SJH	sjh-core-pa-1	10.112.168.38	D4:3D:7E:B2:7E:87	Micro-Star Int"l Co Ltd	Vlan268	Environmental	sjh-g04-sw-1_Gi1/0/12	06-09-2020
+SJH	sjh-core-pa-1	10.112.168.39	00:80:66:06:6C:25	ARCOM CONTROL SYSTEMS LTD.	Vlan268	Environmental	sjh-208-sw-3_Fe0/1	06-04-2020
+SJH	sjh-core-pa-1	10.112.168.40	00:50:06:01:B1:E2	TAC AB	Vlan268	Environmental	sjh-204-sw-1_Gi1/0/30	06-09-2020
+SJH	sjh-core-pa-1	10.112.168.41	00:80:67:86:52:62	SQUARE D COMPANY	Vlan268	Environmental	sjh-g11-sw-1_Gi1/0/31	06-09-2020
+SJH	sjh-core-pa-1	10.112.168.42	00:80:67:86:52:60	SQUARE D COMPANY	Vlan268	Environmental	sjh-g11-sw-1_Gi1/0/33	06-09-2020
+SJH	sjh-core-pa-1	10.112.168.43	00:80:67:86:52:5F	SQUARE D COMPANY	Vlan268	Environmental	sjh-204-sw-1_Gi1/0/13	06-09-2020
+SJH	sjh-core-pa-1	10.112.168.45	00:10:8D:04:9B:FC	Johnson Controls Inc.	Vlan268	Environmental	sjh-204-sw-1_Gi1/0/27	06-04-2020
+SJH	sjh-core-pa-1	10.112.168.46	00:50:4E:10:30:BB	SIERRA MONITOR CORP	Vlan268	Environmental	sjh-204-sw-1_Gi1/0/28	06-09-2020
+SJH	sjh-core-pa-1	10.112.168.55	00:0A:B0:04:D5:A1	LOYTEC electronics GmbH	Vlan268	Environmental	sjh-208-sw-6_Gi1/0/44	06-09-2020
+SJH	sjh-core-pa-1	10.112.168.56	00:80:67:80:AA:AD	SQUARE D COMPANY	Vlan268	Environmental	sjh-204-sw-1_Gi1/0/38	06-09-2020
+SJH	sjh-core-pa-1	10.112.168.130	00:D0:C9:C5:B4:94	ADVANTECH CO. LTD.	Vlan268	Environmental	sjh-604-sw-6_Gi1/0/47	06-04-2020
+FRANKLIN	franklin-core-c4k-1	10.153.22.3	00:40:17:8E:D2:AE	Silex Technology America	Vlan284	Clinical	franklin-201-c4k-1_Gi5/44	06-08-2020
+CDC	cdc-cr-n7k-1-agg	10.71.248.75	00:1F:A0:13:96:B9	A10 Networks	Vlan1124	Prd-PACS-L3	sjh-cr-n7k-2-agg_eth_1_9	10-26-2020
+SJH	sjh-core-pa-1	10.112.184.20	00:19:0F:11:01:26	Advansus Corp.	Vlan284	Clinical	sjh-604-sw-2_Gi1/0/11	06-08-2020
+SJH	sjh-core-pa-1	10.112.184.85	AC:3F:A4:0E:15:6A	TAIYO YUDEN CO.,LTD	Vlan284	Clinical	sjh-core-c65-1_PO200	06-09-2020
+SFH	sfh-core-c4k-1	10.41.250.134	00:0B:AB:94:51:7A	Advantech Technology (CHINA) Co. Ltd.	Vlan284	Clinical	UNK	06-02-2020
+SJH	sjh-core-pa-1	10.112.184.87	AC:3F:A4:0E:12:74	TAIYO YUDEN CO.,LTD	Vlan284	Clinical	sjh-core-c65-1_PO200	06-02-2020
+SJH	sjh-core-pa-1	10.112.184.88	AC:3F:A4:45:90:40	TAIYO YUDEN CO.,LTD	Vlan284	Clinical	cdc-cr-n7k-2-agg_PO310	06-09-2020
+SJH	sjh-core-pa-1	10.112.184.89	AC:3F:A4:0E:12:E0	TAIYO YUDEN CO.,LTD	Vlan284	Clinical	cdc-cr-n7k-1-agg	06-03-2020
+SLH	wigle-slh-core-fw-1	10.131.168.15	84:2B:2B:8E:EF:62	Dell Inc.	Vlan268	Environmental	slh-core-sw-3_Gi1/0/24	10-26-2020
+SLH	slh-core-c4k-1	10.131.168.17	00:01:F0:92:6C:92	Tridium Inc.	Vlan268	Environmental	slh-sl5c-sw-1_Fa0/15	08-05-2020
+SJOC	sjoc-core-c4k-1	10.46.250.58	00:00:50:05:05:BF	RADISYS CORPORATION	Vlan284	Clinical	sjoc-301-sw-2_Fa0/19	06-09-2020
+FRANKLIN	wigle-franklin-core-fw-1	10.45.250.59	00:00:50:36:91:EF	RADISYS CORPORATION	Vlan284	Clinical	franklin-103-c4k-1_Gi4/28	06-25-2020
+SJOC	wigle-sjoc-core-fw-1	10.46.250.30	00:E0:F4:2F:36:BF	INSIDE Technology A/S	Vlan284	Clinical	sjoc-301-sw-2_Fa0/30	06-26-2020
+CDC	cdc-cr-n7k-1-agg	10.114.39.246	3C:6A:A7:90:89:F4	Intel Corporate	Vlan1240	ARUBA_AH-SYS	Wireless	06-16-2020
+EMH	emh-core-c4k-1	10.153.10.3	00:40:17:8E:D2:0B	Silex Technology America	Vlan284	Clinical	emh-101-sw-3_Fa0/7	06-16-2020
+FRANKLIN	wigle-franklin-core-fw-1	10.62.184.20	00:19:0F:11:01:1E	Advansus Corp.	Vlan284	Clinical	ranklin-101-c4k-3_Fa3/33	10-20-2020
+EMH	emh-core-c4k-1	10.114.210.22	00:D0:C9:D8:33:4E	ADVANTECH CO. LTD.	Vlan310	GE-IX	emh-503-sw-2_Gi1/0/21	09-25-2020
+EMH	emh-core-c4k-1	10.114.210.24	74:FE:48:13:A4:4A	ADVANTECH CO. LTD.	Vlan310	GE-IX	emh-503-sw-2_Gi1/0/23	10-06-2020
+EMH	emh-core-c4k-1	10.114.210.25	00:D0:C9:D8:30:44	ADVANTECH CO. LTD.	Vlan310	GE-IX	emh-203-sw-4_Gi1/0/14	09-25-2020
+EMH	emh-core-c4k-1	10.44.250.146	00:25:90:76:5F:24	Super Micro Computer Inc.	Vlan284	Clinical	emh-203-sw-5_Gi1/0/15	08-24-2020
+SMC	wigle-smc-core-fw-1	10.130.184.32	A0:D3:C1:29:11:1B	Hewlett Packard	Vlan284	Clinical	smc-110-sw-3_Gi1/0/5	10-26-2020
+SFH	wigle-sfh-core-fw-cl1	10.153.14.8	00:40:17:8E:D2:07	Silex Technology America	Vlan284	Clinical	sfh-mob-305_Gi1/0/2	09-04-2020
+CDC	cdc-cr-n7k-1-agg	10.1.199.239	00:50:56:B3:F1:12	VMWare	Vlan301	CDC_Servers	cdc-cr-r529-n5k-2_Eth1/15	07-23-2020
+CDC	cdc-cr-n7k-1-agg	10.1.199.251	00:50:56:B3:F4:B6	VMWare	Vlan301	CDC_Servers	cdc-cr-r333-n5k-1	07-23-2020
+SJOC	wigle-sjoc-core-fw-1	169.254.196.132	6C:3B:E5:23:37:15	Hewlett Packard	Vlan284	Clinical	sjoc-301-sw-5_gi1/0/3	07-21-2020
+SJH	sjh-cr-n7k-1-agg	10.1.209.241	2C:44:FD:7D:38:B4	Hewlet Packard	Vlan301	CDC_Servers	cdc-cr-r132-n5k-1_Eth103/1/23	08-04-2020
+FRANKLIN	franklin-core-c4k-1	10.62.210.90	00:40:97:30:35:58	DATEX DIVISION OF	Vlan310	GE-IX	franklin-301-c4k-3_gi5/32	10-23-2020
+SJH	sjh-cr-n7k-1-agg	10.1.209.231	2C:44:FD:7D:3D:8C	Hewlet Packard	Vlan301	CDC_Servers	cdc-cr-r131-n5k-1_Eth102/1/27	09-11-2020
+SJH	sjh-core-c65-1	10.112.233.11	5C:F9:DD:73:38:9B	Dell Inc.	Vlan396	Fire Alarm	sjh-102-sw-2_gi1/0/33	09-17-2020
+SFH	sfh-core-c4k-1	10.41.250.243	00:19:0F:15:20:FA	Advansus Corp.	Vlan284	Clinical	Unknown	09-28-2020
+SFH	sfh-core-c4k-1	10.69.184.114	00:40:9D:60:72:9C	DigiBoard	Vlan284	Clinical	sfh-b01-sw-2_Gi1/0/3	10-26-2020
+FRANKLIN	franklin-core-c4k-1	10.153.22.9	60:A4:4C:EC:9F:11	ASUSTek COMPUTER INC.	Vlan284	Clinical	franklin-101-c4k-3_Gi5/2	10-20-2020
